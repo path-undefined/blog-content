@@ -1,0 +1,20 @@
+{
+  "title": {
+    "en": "About",
+    "de": "Über",
+    "zh": "关于"
+  },
+  "time": {
+    "date": "2022-09-03",
+    "time": "22:29:00",
+    "timeZone": "Europe/Berlin"
+  },
+  "location": {
+    "name": {
+      "en": "Home",
+      "de": "Zuhause",
+      "zh": "家中"
+    }
+  },
+  "blocks": []
+}

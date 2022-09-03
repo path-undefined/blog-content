@@ -1,0 +1,22 @@
+{
+  "type": "ArticlesPage",
+  "articlesPerPage": 5,
+  "i18n": {
+    "pageTitle": {
+      "en": "Articles",
+      "de": "Beiträge",
+      "zh": "博文列表"
+    },
+    "readMoreLabel": {
+      "en": "read more",
+      "de": "weiter lesen",
+      "zh": "继续阅读"
+    },
+    "loadMoreLabel": {
+      "en": "load more",
+      "de": "mehr anzeigen",
+      "zh": "加载更多"
+    }
+  },
+  "articlesConfigPath": "/articles/list-001.json"
+}

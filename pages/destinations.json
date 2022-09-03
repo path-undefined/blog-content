@@ -1,0 +1,15 @@
+{
+  "type": "DestinationsPage",
+  "i18n": {
+    "title": {
+      "en": "Destinations",
+      "de": "Reiseziele",
+      "zh": "旅行目的地"
+    },
+    "message": {
+      "en": "This page is still under construction.",
+      "de": "Diese Seite befindet sich noch im Aufbau.",
+      "zh": "这个页面尚未搭建完成。"
+    }
+  }
+}

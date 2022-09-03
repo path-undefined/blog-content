@@ -1,0 +1,15 @@
+{
+  "type": "ComicsPage",
+  "i18n": {
+    "title": {
+      "en": "Comics",
+      "de": "Comics",
+      "zh": "漫画"
+    },
+    "message": {
+      "en": "This page is still under construction.",
+      "de": "Diese Seite befindet sich noch im Aufbau.",
+      "zh": "这个页面尚未搭建完成。"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "ArticlePage",
+  "i18n": {
+    "mapLinkLabel": {
+      "en": "Show on map",
+      "de": "Auf Karte anzeigen",
+      "zh": "在地图上显示"
+    }
+  },
+  "articleConfigPath": "/articles/article-about.json"
+}

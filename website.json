@@ -1,0 +1,61 @@
+{
+  "languages": {
+    "fallbackOrder": [ "en", "zh" ],
+    "options": [
+      {
+          "code": "en",
+          "label": "English"
+      },
+      {
+          "code": "de",
+          "label": "Deutsch"
+      },
+      {
+          "code": "zh",
+          "label": "中文"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "name": "articles",
+      "label": {
+          "en": "Articles",
+          "de": "Beiträge",
+          "zh": "博文列表"
+      },
+      "pageConfigPath": "/pages/articles.json"
+    },
+    {
+      "name": "article",
+      "pageConfigPath": "/pages/article.json"
+    },
+    {
+      "name": "destinations",
+      "label": {
+          "en": "Destinations",
+          "de": "Reiseziele",
+          "zh": "旅行目的地"
+      },
+      "pageConfigPath": "/pages/destinations.json"
+    },
+    {
+      "name": "comics",
+      "label": {
+          "en": "Comics",
+          "de": "Comics",
+          "zh": "漫画"
+      },
+      "pageConfigPath": "/pages/comics.json"
+    },
+    {
+      "name": "about",
+      "label": {
+          "en": "About",
+          "de": "Über",
+          "zh": "关于"
+      },
+      "pageConfigPath": "/pages/about.json"
+    }
+  ]
+}
