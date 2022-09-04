@@ -116,6 +116,20 @@
         "en": "I'm sort of introverted. If you know me in person, you could find me talking quite a lot, but this is only on the surface. I actually need time for myself very often. Keeping talking with people will drain my energy very quickly. Besides, comparing to talking, I prefer writing. Since I believe the natural language is very inefficient and anbigious. In talking I tend to make a lot mistakes, say something that is not what I meant to say. However if everything is written down, then I can always review and modify it before I publish or send it. It is much more efficent and accurate than keeping explaining myself in a flow.",
         "zh": "我应该算是一个内向的人吧。如果你在现实中认识我的话，你可能会觉得我很能说话，不过这只是表象。我很经常地会需要一些留给我自己一个人的时间。一直跟人说话的话，很快我的能量就会被耗尽了。除此之外，比起说话，我其实更喜欢写东西。因为我总觉得自然语言非常低效率，而且充满歧义。我说话的时候经常会犯错误，随口说出一些话完全不能表达我想要表达的意思。如果我把这些东西写下来的话，那么在发表或者是发送之前我总会有机会检查一遍，改掉一些小地方。比起在交谈中一直解释我的意思，写文字不仅更高效、也更精确得多了。"
       }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I have a bunch of hobbies, but among them, I like travelling, painting, fixing things (especially my car) and photography the most. And each of them is a reflection of one aspect of my character.",
+        "zh": "我有不少兴趣，不过其中我自己最喜欢的还是旅行、画画、修理各种事物（尤其是车子）、摄影。这些兴趣每一样都是我的性格的一种自然反映。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I'm curious, like to know new things. I'm especially being attracted by nature. I love to see different terrain, different vegetation, and I love those wild lives. I'm also interested in getting to know different cultures. Thus I like travelling, especially the travelling styles where I have to really put my own effort in, like hiking, road-trip, and so on.",
+        "zh": "我很好奇，喜欢接触新鲜的事物。我非常喜欢自然，特别喜欢看不同的地形、地貌和植被，特别喜欢野生动物，也喜欢了解不同的文化。所以我喜欢旅行，尤其是那些身体力行的旅行方式，比如说徒步、自驾什么的。"
+      }
     }
   ]
 }
