@@ -94,6 +94,28 @@
         "en": "And about this blog, it is all about _time_, it is all about the interaction between changes, observations and memories.",
         "zh": "而这个博客呢，它里面的内容都是跟**时间**有关的，它们都是变化、观察与记忆相互作用的产物。"
       }
+    },
+    {
+      "type": "HeadingBlock",
+      "level": 1,
+      "text": {
+        "en": "About the Author",
+        "zh": "关于作者"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "The author of this blog is myself, Watermelon Puppet. Of course it is a nickname. I prefer to keep my real name a secret though.",
+        "zh": "这个博客的作者就是我本人——西瓜玩偶。这个当然是网名了，本名保密。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I'm sort of introverted. If you know me in person, you could find me talking quite a lot, but this is only on the surface. I actually need time for myself very often. Keeping talking with people will drain my energy very quickly. Besides, comparing to talking, I prefer writing. Since I believe the natural language is very inefficient and anbigious. In talking I tend to make a lot mistakes, say something that is not what I meant to say. However if everything is written down, then I can always review and modify it before I publish or send it. It is much more efficent and accurate than keeping explaining myself in a flow.",
+        "zh": "我应该算是一个内向的人吧。如果你在现实中认识我的话，你可能会觉得我很能说话，不过这只是表象。我很经常地会需要一些留给我自己一个人的时间。一直跟人说话的话，很快我的能量就会被耗尽了。除此之外，比起说话，我其实更喜欢写东西。因为我总觉得自然语言非常低效率，而且充满歧义。我说话的时候经常会犯错误，随口说出一些话完全不能表达我想要表达的意思。如果我把这些东西写下来的话，那么在发表或者是发送之前我总会有机会检查一遍，改掉一些小地方。比起在交谈中一直解释我的意思，写文字不仅更高效、也更精确得多了。"
+      }
     }
   ]
 }
