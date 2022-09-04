@@ -5,8 +5,8 @@
     "zh": "关于"
   },
   "time": {
-    "date": "2022-09-03",
-    "time": "22:29:00",
+    "date": "2022-09-04",
+    "time": "18:41:00",
     "timeZone": "Europe/Berlin"
   },
   "location": {
@@ -20,7 +20,7 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "Ok, now you are reading this webpage. This is crazy. There is such a huge amount data flying over the whole Internet, and you have found my blog, while this is already one thing, and then you have started reading the "About" page of my blog, which is another thing completely on a different level."
+        "en": "Ok, now you are reading this webpage. This is crazy. There is such a huge amount data flying over the whole Internet, and you have found my blog, while this is already one thing, and then you have started reading the \"About\" page of my blog, which is another thing completely on a different level."
       }
     }
   ]
