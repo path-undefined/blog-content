@@ -7,10 +7,6 @@
           "label": "English"
       },
       {
-          "code": "de",
-          "label": "Deutsch"
-      },
-      {
           "code": "zh",
           "label": "中文"
       }
