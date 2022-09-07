@@ -18,12 +18,6 @@
   },
   "blocks": [
     {
-      "type": "ImageBlock",
-      "url": "https://live.staticflickr.com/65535/52288235456_5720ad243b_k_d.jpg",
-      "size": { "width": 2048, "height": 1368 },
-      "description": { "en": "Text image" }
-    },
-    {
       "type": "ParagraphBlock",
       "content": {
         "en": "Ok, now you are reading this webpage. This is amazing! There is such a huge amount data flying over the whole Internet, and you have found my blog, while this is already one thing, and then you have started reading the \"About\" page of my blog, which is another thing completely on a different level. Isn't it some sort of destiny?",
