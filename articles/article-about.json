@@ -163,6 +163,7 @@
     {
       "type": "ParagraphBlock",
       "content": {
+        "en": "I'm quite satisfied with the name of the blog, because these two words are reflecting different aspects of my life.",
         "zh": "我对这个博客的名字可以说是相当满意，因为这两个词真的是能反映出我的方方面面。"
       }
     },
@@ -177,19 +178,22 @@
     {
       "type": "ParagraphBlock",
       "content": {
+        "en": "I'm a programmer, \"Path Undefined\" tends to remind me of some kind of error messages from a failed program. It was one of my dreams once to be a programmer.",
         "zh": "我的工作是码农，“Path Undefined”让人一看就觉得像是什么程序的报错信息。当个码农曾经也算是我的梦想之一。"
       }
     },
     {
       "type": "ParagraphBlock",
       "content": {
-        "zh": "我还记得相当清楚，我上小学三年级的时候，十月初，是个下雨天。我和我爸爸跑去当时城里的“电子街”看电脑。以当时的技术和消费水平来看，电脑这种东西算是一个大件电器了。我们本着货比三家的原则，沿着“电子街”跑了好几家店。最后相中了一款联想的电脑。那个时候的联想还不叫Lenovo，而是叫Legend。我还很清楚地记得电脑当时的CPU是奔腾III，450MHz，内存是64MB，显示器是电子管的，15寸，有现在的一个小微波炉那么大，操作系统还是Windows 98。自从有了电脑，我就跟电脑结下了蛮深的羁绊。"
+        "en": "I can still remember it clearly that I were at 3rd grade in primary school, and it was a rainy day in the beginning of October. My father and I were going to the \"Street of Electronic Gadgets\" in town looking for a PC for my family. To buy a computer was a big purchase at that time with the level of technology and consumption taken into consideration. With \"comparing deals before buying\" in our head, we have walked down the \"Street of Electronic Gadgets\" and visited quite a few retailers. At last, we have decided to buy a Lenovo PC. At that time, Lenovo was actually not called Lenovo, but Legend. And I can clearly remember that the CPU was a Pentium III, 450 MHz, the RAM was 64 Mb, the monitor was a CRT, 15 inch, as big as a small microwave nowadays, and the operating system was Windows 98. Since we had that PC, my life was bond to computers in a way.",
+        "zh": "我还记得相当清楚，我上小学三年级的时候，十月初，是个下雨天。我和我爸爸跑去当时城里的“电子街”看电脑。以当时的技术和消费水平来看，电脑这种东西算是一个大件电器了。我们本着货比三家的原则，沿着“电子街”跑了好几家店。最后相中了一款联想的电脑。那个时候的联想还不叫Lenovo，而是叫Legend。我还很清楚地记得电脑当时的CPU是奔腾III，450MHz，内存是64MB，显示器是电子管的，15寸，有现在的一个小微波炉那么大，操作系统还是Windows 98。自从有了那台电脑，我就跟电脑结下了蛮深的羁绊。"
       }
     },
     {
       "type": "ParagraphBlock",
       "content": {
-        "zh": "有了电脑之后的相当长一段时间里，我对游戏相当沉迷。后来，我慢慢地开始对编程有了兴趣。刚开始的时候稍稍学了点C++，最多也就是能照着书上的例子写点命令行程序的水平。谁想到后来我写的程序越来越多，越来越复杂。高中毕业之后的那一年，我用C++写了一个《Live for Speed》的游戏插件，那也是我第一次真正地理解了编程是怎样一回事。在那之后，我又写了我人生中的第一个小游戏。那是一个炮塔打小行星的游戏，屏幕上有三个炮塔，每一个炮塔都有一定的质量。而小行星就会以万有引力的数学规律朝着炮塔飞。而玩家必须操纵炮塔把这些小行星打掉，不然的话小行星撞到炮塔就算玩家输了。我还清楚地记得当时我的代码写得乱七八糟，第一次编译的时候光是编译器报错就有200多个。后来我真是耐着性子把它们一点一点地都改掉。没想到程序跑起来之后，内存错误又一大堆，还有各种segmentation fault的报错，我当时根本就不明白这些报错是什么意思。我费了好一番功夫才把游戏改到没有segmentation fault的程度。可是谁想到真的玩起来，游戏又是bug连连。一会儿炮塔打出的炮弹明明打偏了，可是小行星还是被摧毁了。有的时候小行星明明没有撞到炮塔，可是游戏却Game Over。我绞尽脑汁一直改到放弃也没有把那个游戏改到可以让别人玩的程度。"
+        "en": "After we have got the PC, for a long time, I were addicted to PC games. Later, I started to develop an interest in programming. At first, I've just learnt some C++, and the most complex program that I could do was a command line program with most of the code copied from a textbook. I've never thought about that in the following years, I've written more and more programs, and they were becoming more and more complex. In the summer vacation after I've graduated from the high-school, I've written a plugin for the game called \"Live for Speed\", which is also the first time I've understood what programming really is. Soon after that, I've written a little game. My plan was to build a game about turrets shooting asteroids. In the middle of the screen there is a turret, which has a mass. And the asteroids will fly into the screen, and fly towards the turret according to the law of universal graviation. The play have to control the turret to shoot those asteroids, otherwise they will hit the turret and it will be a Game Over. My code of the game was a huge mess, there were more than 200 errors occuring in the first compilation. I were so patient that I've correct them one by one. And once the program was getting running, then several memory errors came up, all sorts of \"segmentation fault\". I had no single idea what that meant. With some painful struggles, I've managed to make the program \"segmentation fault\" free. And then bugs were following. The bullet of turrets missed, but the asteroids were getting destroyed. And the asteroid missed the turret, but it was a Game Over. These bugs has drained the last patience from me for this program, thus the game was never finished.",
+        "zh": "有了电脑之后的相当长一段时间里，我对游戏相当沉迷。后来，我慢慢地开始对编程有了兴趣。刚开始的时候稍稍学了点C++，最多也就是能照着书上的例子写点命令行程序的水平。谁想到后来我写的程序越来越多，越来越复杂。高中毕业之后的那一年，我用C++写了一个《Live for Speed》的游戏插件，那也是我第一次真正地理解了编程是怎样一回事。在那之后，我又写了一个小游戏。我计划做一个炮塔打小行星的游戏——屏幕的正中央有一个炮塔，炮塔有一定的质量。而从屏幕边缘飞进来的小行星就会以万有引力的规律朝着炮塔飞。而玩家必须操纵炮塔把这些小行星打掉，不然的话小行星撞到炮塔就算玩家输了。当时我的代码写得乱七八糟，第一次编译的时候光是编译器报错就有200多个。后来我真是耐着性子把它们一点一点地都改掉。没想到程序跑起来之后，内存错误又一大堆，还有各种segmentation fault的报错，我当时根本就不明白这些报错是什么意思。我费了好一番功夫才把游戏改到没有segmentation fault的程度。可是谁想到真的玩起来，游戏又是bug连连。一会儿炮塔打出的炮弹明明打偏了，可是小行星还是被摧毁了。有的时候小行星明明没有撞到炮塔，可是游戏却Game Over。我绞尽脑汁一直改到放弃也没有把那个游戏改到可以让别人玩的程度。"
       }
     },
     {
