@@ -21,7 +21,7 @@
       "type": "ParagraphBlock",
       "content": {
         "en": "Ok, now you are reading this webpage. This is amazing! There is such a huge amount data flying over the whole Internet, and you have found my blog, while this is already one thing, and then you have started reading the \"About\" page of my blog, which is another thing completely on a different level. Isn't it some sort of destiny?",
-        "zh": "太神奇了，我还从来没想到过有人会来看这个网页呢！网上每天有海量的信息飞来飞去，可是你却偏偏发现了我的博客。不过发现了我的博客还不算稀奇，稀奇的是你还看起我写的这篇“关于”了。你说这是不是一种缘分？"
+        "zh": "太神奇了，我还从来没想到过有人会来看这个网页呢！网上每天有海量的信息飞来飞去，可是你却偏偏发现了我的博客。不过发现了我的博客还不算稀奇，稀奇的是你还看起我写的这篇《关于》了。你说这是不是一种缘分？"
       }
     },
     {
@@ -99,6 +99,228 @@
       "type": "HeadingBlock",
       "level": 1,
       "text": {
+        "en": "About the Name of the Blog",
+        "zh": "关于博客的名字"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I'm quite satisfied with the name of the blog, because these two words are reflecting different aspects of my life.",
+        "zh": "我对这个博客的名字可以说是相当满意，因为这两个词真的是能反映出我的生活的方方面面。"
+      }
+    },
+    {
+      "type": "HeadingBlock",
+      "level": 2,
+      "text": {
+        "en": "Error Message",
+        "zh": "报错信息"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I'm a programmer, \"Path Undefined\" tends to remind me of some kind of error messages from a failed program. It was one of my dreams once to be a programmer.",
+        "zh": "我的工作是码农，“Path Undefined”让人一看就觉得像是什么程序的报错信息。当个码农曾经也算是我的梦想之一。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I can still remember it clearly that I were at 3rd grade in primary school, and it was a rainy day in the beginning of October. My father and I went to the \"Street of Electronic Gadgets\" in town looking for a PC for my family. A PC was a big purchase at that time with the level of technology and consumption taken into consideration. With \"comparing deals before buying\" in our minds, we have walked down the \"Street of Electronic Gadgets\" and visited quite a few retailers. At last, we have decided to buy a Lenovo PC. At that time, Lenovo was actually not called \"Lenovo\", but \"Legend\". And I can clearly remember that the CPU was a Pentium III, 450 MHz, the RAM was 64 Mb, the monitor was a CRT, 15 inch, as big as a small microwave nowadays, and the operating system was a Windows 98. Since we had that PC, my life was bond to computers in a way.",
+        "zh": "我还记得相当清楚，我上小学三年级的时候，十月初，是个下雨天。我和我爸爸跑去当时城里的“电子街”看电脑。以当时的技术和消费水平来看，电脑这种东西算是一个大件电器了。我们本着货比三家的原则，沿着“电子街”跑了好几家店。最后相中了一款联想的电脑。那个时候的联想还不叫Lenovo，而是叫Legend。我还很清楚地记得电脑当时的CPU是奔腾III，450MHz，内存是64MB，显示器是电子管的，15寸，有现在的一个小微波炉那么大，操作系统还是Windows 98。自从有了那台电脑，我就跟电脑结下了蛮深的羁绊。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "After we have got the PC, for a long time, I were addicted to PC games. Later, I started to develop an interest in programming. At first, I've just learnt some C++, and the most complex program that I could do was a command line program with most of the code copied from a textbook. I've never thought about that in the following years, I've written more and more programs, and they were becoming more and more complex. In the summer vacation after I've graduated from the senior high school, I've written a plugin for the game called \"Live for Speed\", which is also the first time I've understood what programming really is. Soon after that, I've written a little game. My plan was to build a game about turrets shooting asteroids. In the middle of the screen there is a turret, which has a mass. And the asteroids will fly into the screen, and fly towards the turret according to the law of universal graviation. The play have to control the turret to shoot those asteroids, otherwise they will hit the turret and it will be a Game Over. My code of the game was a huge mess, there were more than 200 errors occuring in the first compilation. I were so patient that I've correct them one by one. And once the program was getting running, then several memory errors came up, all sorts of \"segmentation fault\". I had no single idea what that meant. With some painful struggles, I've managed to make the program \"segmentation fault\" free. And then bugs were following. The bullet of turrets missed, but the asteroids were getting destroyed. And the asteroid missed the turret, but it was a Game Over. These bugs has drained the last patience from me for this program, thus the game was never finished.",
+        "zh": "有了电脑之后的相当长一段时间里，我对游戏相当沉迷。后来，我慢慢地开始对编程有了兴趣。刚开始的时候稍稍学了点C++，最多也就是能照着书上的例子写点命令行程序的水平。谁想到后来我写的程序越来越多，越来越复杂。高中毕业之后的那一年，我用C++写了一个《Live for Speed》的游戏插件，那也是我第一次真正地理解了编程是怎样一回事。在那之后，我又写了一个小游戏。我计划做一个炮塔打小行星的游戏——屏幕的正中央有一个炮塔，炮塔有一定的质量。而从屏幕边缘飞进来的小行星就会以万有引力的规律朝着炮塔飞。而玩家必须操纵炮塔把这些小行星打掉，不然的话小行星撞到炮塔就算玩家输了。当时我的代码写得乱七八糟，第一次编译的时候光是编译器报错就有200多个。后来我真是耐着性子把它们一点一点地都改掉。没想到程序跑起来之后，内存错误又一大堆，还有各种segmentation fault的报错，我当时根本就不明白这些报错是什么意思。我费了好一番功夫才把游戏改到没有segmentation fault的程度。可是谁想到真的玩起来，游戏又是bug连连。一会儿炮塔打出的炮弹明明打偏了，可是小行星还是被摧毁了。有的时候小行星明明没有撞到炮塔，可是游戏却Game Over。我绞尽脑汁一直改到放弃也没有把那个游戏改到可以让别人玩的程度。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "After that, I've met a lot of friends who are into programming too. I were always asking them all sorts of questions, one after another. Slowly, I realized that there are two types of code, clean and dirty, and it was also slowly getting clearer to me how to organize the code of a big project. However just like most of the beginner programmers, I had a certain \"optimism\" (according to Uncle Bob, the author of the \"Clean Code\") at that time. I was thinking no matter how big the project is, to finish it is just a matter of time for me. For countless times I've tried to finish a decent game project, but other than those simple ones like Tetris, Galaxy Attack or Snake, I've never managed to finish one single project more complex than those. I realized later that the \"optimism\" was actually the biggest enemy of programmers.",
+        "zh": "再后来，我遇到了不少也喜欢编程的朋友。我经常是缠着他们问各种各样的问题。渐渐地，我也明白了代码并不是随便写写就可以的，代码也有干净与肮脏之分。我也逐渐地明白了该怎么组织一个大工程的代码。不过就像是所有的刚入门的程序员一样，我当时有一种“新程序员特有的乐观主义”，觉得不管是多大的工程，对于自己来说都只是一个时间问题。所以我好几次尝试写游戏，然而除了俄罗斯方块、打飞机、贪吃蛇这类的小游戏之外，我还真没写过一个像样的游戏作品。渐渐地我也开始明白这种“乐观主义”其实才是程序员的大敌。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I was studying Mechanic Engineering at that time at university. Although I do have interests in machines, but Mechanic Engineering was definitely the wrong choice for me, because my interests in machines was about something like building a car by myself, or design a gearbox or so. However Mechanic Engineering is nothing about practice, it is more about calculating and drawing blueprints. I couldn't accept the fact that I don't have to get my hands dirty to study Mechanic Engineering. So after several stuggles in my head, I've changed my subject to Informatics (equivalent to Computer Science). After I've changed my subject, I felt just like the duck in the water. Having studied one thing or two about Mechanic Engineering, I still didn't have the necessary tools or machines to help me produce a gearbox. But no matter what I've studied in Informatics, I could put it into practice, all I need is a computer. Plus, I always felt that I had wasted a lot of time before, thus I was studying like a nerd. In the 1st semester I've managed to pass several exams in the 3rd semester, and then in the 2nd semester those in the 4th semester. No matter what I've learnt in the courses, I wouldn't be satisfied until I really tried them by myself. Although I've got some problem with my Bachelor Thesis, which delayed the time of my graduation, I've managed to finish a lot of small projects with in the four years of studying. Again, most of those projects were not being continued, but I've gathered a lot of experiences from working on them.",
+        "zh": "那个时候我还在大学里读机械制造。我虽然对机械很感兴趣，但是机械制造绝对是选错了专业。因为我对机械感兴趣的点在于我自己可以动手做一辆车，或者是可以自己设计一个变速箱之类的。然而机械制造完全跟动手无关，更多的时候，机械制造只是计算和绘图而已。我真的无法接受双手不用沾油污的机械制造专业。所以，我咬咬牙，转到了信息学（相当于计算机科学）专业。转了专业之后，我感觉真的是如鱼得水。在机械制造专业里学了知识之后，我可没有什么条件能让我做个变速箱出来。可是在信息学专业里不管学了什么，基本上都可以动手试一试，唯一的成本就是一台电脑而已。再加上我老是觉得自己之前浪费了太多的时间，所以学习像是学疯了一样。第一学期我考试考掉了不少第三学期的课程，第二学期考掉了好多第四学期的课程。不管是课上教了什么东西，我都想动手做一做才满意。虽然我的毕业设计遭遇了一点坎坷，导致我毕业的时间并没有提前多少。不过我还是利用这四年的时间写了好多小工程，大多数小工程都没有了下文，但是我还是从中积累了相当丰富的编程经验。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "It was quite smooth for me to find a job after my graduation, and also to change my job afterwards. Since the companies seem to be fond of the candidates who have a solid theoretical knowledge basis, while having plenty of practical experiences too. I was starting from Java back-end developer, slowly moved to full-stack, and then front-end developer. A lot of people can't understand till now, why I was moving from a \"high-level\" work to a \"low-level\" work. I was thinking exactly the opposite. First, the back-end services are communicating with computers, even if there is an event-bus, those requests, response and events are all well organized, they come and go, one after another, no one cares about what is happening in between, which makes it just like a \"turn-based\" game. While in the front-end world, human-being users always have the talent to crash a front-end app within 5 minutes, since human-beings are not computer: they don't like following rules; they don't do one thing after another, instead, they will slap the mouse on their desks with dirty words out of their mouths and waiting for the results shown on the UI. Thus, the front-end application is more like a \"real-time\" game. Besides, the back-end service runs as if it has all the resources in the machine, however in the front-end, there is no \"other machine\" to take care of other tasks. The business logic part have to be swift, so that the smooth user interactions are guranteed, which makes the performance optimization much harder. Moreover, the back-end services usually get their ideal running environment, while the front-end apps are basically stuck with in a virtual machine which is called \"user agent\", or better, \"browser\", one has to work with whatever available, and different browser vendors are even making the development more bumpy. But I am a person who loves challenge, and front-end development is challenging for me, which is exactly the reason why I've moved to front-end development.",
+        "zh": "我找工作的过程，包括几次换工作的过程都可以说是相当顺利。因为公司似乎蛮喜欢那种既有理论基础，又有丰富的实战经验的人的。我先是从Java后端开始干起，慢慢地过渡到全栈，最后又慢慢地过渡到了前端。很多人不理解我为什么要这样走，很多人都觉得前端的工作比后端要低级得多。其实我并不这么认为。首先，后端的服务是跟计算机打交道，就算是有一条消息总线，各种请求也好、响应也好或者是消息也好，一来一回，没人管中间发生了什么，充其量只是“回合制”的游戏。而前端的应用是跟人打交道，人类用户天生就有一种可以在5分钟之内把前端应用搞崩溃的天赋，因为人不是电脑，不会按照套路出牌，不会等一件事情做完了才做下一件事情，他们会拍着鼠标说着脏话等着UI显示东西给他们看，这让前端应用更像是一个“即时”的游戏。其次，后端的服务可以做得像是它可以使用整台机器的资源，然而在前端呢，根本没有“另一台机器”可以处理其他的事务，所有的业务逻辑都必须实现得相当轻巧，这才能保证用户的交互足够流畅，但是这也让效率优化变得尤其困难。另外，后端服务基本上可以运行在它想运行的理想运行环境中，而前端应用则是被困在一个叫做“浏览器”的虚拟机里，所有的工作都必须配合着浏览器提供的功能来实现。而且各种不同公司的浏览器也让前端开发变得更加困难重重。不过我是一个喜欢挑战的人，前端开发能给我带来更多的挑战，所以我才慢慢过渡到了前端开发。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "In my free time, my private projects are not separated by front-end or back-end. I've studied a lot about compiler principles, operating system, Internet of Thing, and physics simulation. But after having studied so much, I've found that my way of thinking is being trapped and becoming rigid. No matter whether it is front-end, back-end, IoT, compiler, operating system, big data, or even AI, at last, they are answering four questions: how to store/represent data; how to gather data; how to operate with/process data; and how to publish data. Actually these four questions are also the core questions of Informatics. Once the term \"programming\" is being mentioned, my brain will start automatically to sort all the different details, organize them, and then come up with the answers of the four questions. The rest is just boring implementations. Although I still can't say I'm an experienced programmer, I lost my interest in programming.",
+        "zh": "其实在生活里，我做的私人工程可不只是前端后端那么简单。我也研究了不少编译器原理、操作系统、物联网、还研究了一些物理模拟的知识。可是越研究到后面，我越发现我的思维似乎落入了一种固定的模式。因为我觉得不管是什么方面的编程，前端也好、后端也好、物联网也好、编译器也好、操作系统也好、大数据也好、人工智能也好，到了最后，它们都是在回答四个问题：怎么存储/表示数据？怎么获取数据？怎么操作/转化数据？怎么发布数据？其实这四个问题也就是信息学的本质问题。所以一提起编程，我的脑子里就自动地把所有的东西归类，整理成这四个问题的答案，然后剩下的事情就是枯燥的实现了。虽然到现在我也不能说我是个经验丰富的程序员，但是我对编程渐渐失去了兴趣。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Programming is still my job at the moment. But I'm treating it as a way of earning life, instead of a hobby. However, programming is the reason why I have such a way of thinking, why I have such an understanding of the world. Although it is not my hobby anymore, programming has left its mark deeply in my mind and in my life.",
+        "zh": "目前，编程仍然是我的工作。然而我已经把它完全当作一种生计，而不是一种爱好了。不过我之所以有现在这样的思维方式、以及对世界的理解方式，都是与当时热衷于编程有关的。所以虽然它已经不再是我的爱好了，但是它已经在我的生命中留下了深深的烙印。"
+      }
+    },
+    {
+      "type": "HeadingBlock",
+      "level": 2,
+      "text": {
+        "en": "Freedom",
+        "zh": "自由"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "If you reached here, you might be wondering, why I have chosen Mechanic Engineering at the first, while I was so obsessed with computers? The reason is that cars to me is a passion.",
+        "zh": "读到这里，你可能会想，为什么我那么热衷于计算机，却还是在一开始的时候选择了机械制造专业呢？这是因为汽车对我来说恐怕像是一种追求一样的存在。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Shortly after I started to remeber things, one of my favourite things was sitting on a bus, watching the cars passing by on the street. My mom seemed to have noticed that, so while she was taking me out for a walk, she would introduce the car logos to me, \"this is a Toyota, that is an Audi, that one is a Lada, and that one is a VW...\" When I grew up a little bit, my mom bought a book called \"The World's Famous Cars\" for me. There are a lot of logos of different brands, and hundreds photos of different car modelles with their technical specs. Whenever I stayed alone at home, I would turn several pages of that book, and drew my dream cars on a piece of paper. Not long after, my mom realized that she can't even recognize those logos that I know. My favourite toys in the childhood were also related to cars, the Mini 4WD. I've bought a lot of them with a lot of parts, assambled them and then disassembled them, and did it over again and again, modified them until I were satisfied with them. My passion for cars started at that time.",
+        "zh": "我刚刚懂事的时候，最喜欢做的事情之一就是坐在公交车上看着马路上来来往往的车子。我妈妈发现了我好像很喜欢车，就在带我散步的时候教我认车标：“这是丰田，那个是奥迪，那个是拉达，那个是大众……”后来长大了一点，我妈妈给我买了一本《名车世界》，里面全是各种品牌的车子的车徽、外形和技术参数。我一人在家的时候就喜欢翻着那本书看，然后就会在纸上画各种我喜欢的车子。再后来我妈妈就发现我认识的车标她都不认识了。我童年时期最喜欢的玩具也是跟车有关——是迷你四驱车。我最喜欢的事情就是把那些四驱车零件拆了装、装了拆，还买了好多配件，然后把车子改成自己喜欢的样子。我对车子的喜爱，尤其是对改装车的喜爱就是从这时候开始的。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "At the time when I were in junior high school, the \"Initial D\" was still on TV. My friends introduced the game \"Need for Speed: Underground 2\" to me. I were attracted by its graphic, and also the gameplay of drifting, but the most surprising part of this game was the car modification system. Every part of the car can be customized, bumpers, head lights, body colors, decals, spoilers, rims, engines, transmissions, suspensions, tires, even the underbody neons, as long as one can think of. One can even put the cars on a dyno, fine tuning the ECU, or drive the car in a track to tune the suspension. I were already fond of cars before, and the game was like a huge magnet, kept pulling me towards it. I've never thought about that the cars in the real life could also be modified and tuned until it is perfect to me. From then on, I were attracted by the modified cars. I subscribbed several different car magazines. My favourite column at that time was obviously car modifications. I kept reading those magazines until senior high school. In my senior high school time, I got to know another game called \"Live for Speed\", which is a serious car racing simulator, where all the factors are modelled according to the real car physics. The number of modifiable parameters of a car in this game are amazingly big. Different angles of the suspensions, tire pressures, transmission ratios, LSD, all can be fine tuned in the game. I were obsessed by this game for a very long time, and I've learnt a lot about car dynamics from the game. At my senior high school age, my dream job was to be a car designer. There were always sketches of cars on my desk. And it was also this naive little dream that led me chosen Mechanic Engineering as my subject at the beginning.",
+        "zh": "我上初中的时候，《头文字D》还正在电视上上映，我的朋友给我介绍了《极品飞车：地下狂飙2》这么个游戏。我当时觉得它的图像质量非常惊艳，漂移计分的玩法也非常吸引人，但是更多的还是惊诧于它实现的车辆改装系统。保险杠、车灯、车体颜色、印花、尾翼、轮圈、发动机、传动系统、悬挂、轮胎，甚至是车底霓虹灯，只要是我能想到的部件，在游戏里都可以自由定制。游戏里甚至还可以调整悬挂和ECU的参数。本来就喜欢车子的我一下就被这款游戏给深深地吸引了，我从来没想过现实生活中的车子也可以像四驱车一样一直改装到自己觉得满意的程度。自从那以后我就喜欢上了改装车。我定了好几本汽车杂志，最喜欢看的就是新车和改装车的专栏，这一看就看到了高中。在高中时期，我又找到了个叫做《Live for Speed》的游戏。它是个严肃的赛车模拟游戏，游戏里所有的因素都是根据真实的车辆物理进行的建模。它的可调节参数的数量和细致程度都是高得惊人，悬挂的各种角度、轮胎的气压、传动比、LSD，在游戏里都可以调节。我一度对它非常沉迷，它也让我学了好多汽车物理相关的知识。高中时期，我的志向就是当一个汽车设计师，我坐的课桌上总是画着我设计的汽车，这也是后来为什么我一开始选了机械制造专业的原因。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "However, since I have changed my subject, my passion for cars has also been fronzen for a long time. Later I've learnt driving, and got my driving license, and then got my first car. But it was an experience of oil change, which revived my passion for cars. My first ever car, which is still my daily driver now, is a BMW 316ti Compact. It is not reliable at all. And the pre-owner has never been tender to it. Not mentioning that he has made the interior a huge mess, the handbreak and clutch were also badly worn, which made me thinking whether he has practised drifting on the street. At that time I thought that if I could renovate this car, I would save some money, and learn something new. The engine oil indicator of the car was also lit at that time, so I thought that to do an oil change could be a good start.",
+        "zh": "因为后来我转了专业的缘故，我对汽车的爱好一度被冻结了很久。后来我学了开车，考了驾照，也买了自己的车子。但是真正让我对汽车的爱好又复苏的事情，是我换机油的一次经历。我的第一辆车，现在依然是我的主要代步工具，是一辆BMW 316ti Compact，它可是故障频频。前车主估计对它也不怎么温柔，内饰他改装得一塌糊涂不说，手刹、离合器这些零件都磨损得相当严重，让人怀疑前车主是不是在马路上练漂移。我当时就想着或许我可以花点时间把这辆车修一修，既省了点钱，又学了点实用的技能。正好当时车子的机油指示灯亮了，所以我就在想或许换机油是一个很好的开始。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I knew all the theories to change the oil, however in practise it was not that easy. I've managed to scratch the chasis by driving on to the slope, add too much oil into the engine, and make a huge mess on the ground and on the car. After that, I clean the car from the top to the bottom, and the car was shinny again. I drove the car to the freeway. It was the sunset at that time, and I were driving on an empty freeway, into the sun. Suddenly I felt so relaxing, better than any relaxing moment before. After I drove back home, I realized that my passion for car has come back.",
+        "zh": "我大概知道换机油的理论知识，不过自己真的做起来还是遇到了不小的麻烦。我不但在开车开到架子上的时候磕到了底盘，还加了太多的机油，最后还把地面和车子弄得脏兮兮的。但是换完机油之后，我把车子擦了一遍，车子变得干净了许多。我开着车子去高速公路上跑了一圈，那时正是太阳落山的时候，我开着车迎着夕阳，开在空荡荡的高速公路上，突然觉得心情舒畅极了。回到家之后我就明白过来，我对车子的热爱又回来了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "A car to me means an extension of my activity range and freedom. Without a car, my daily activity range was taking the places where buses and trains can reach as the center, plus the range that I could walk in a day. Now, my daily activity range is taking the places where a car can be parked, plus the range that I could walk in a day. This is extending my activity range a lot. I couldn't reach some places in the nature by taking buses or trains before, and now I can reach those places within a few hours with car. Besides, I don't have to follow the time table of buses or trains, but just hit the road whenever I want to. This is definitely a freedom.",
+        "zh": "汽车对我来说象征着活动范围的扩张与自由。之前没有车的时候，我一日的活动范围是以公交车与火车能到达的地方为中心再加上我最大的步行里程。而现在有了车子之后，我的一日活动范围就成了以任何可以停车的地方为中心再加上我最大的步行里程。这无疑大大地扩张了我的活动范围。以前一些自然风光坐火车或者是公交车是到不了的，而现在开车的话几个小时就能到。而且我也没必要按照火车或者公交车的班次来安排我的旅行，而真的是说走就走。这无疑是一种自由的体现。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Now, I'm afraid my favourite after work activity is driving. I'd drive onto the country roads or on the freeways. No destination, no route, no certain time, I pick the next turn according to my mood at the moment. When I'm enough with driving, and have forgotten all those stress and troubles, I'd then drive back using GPS. I also like the weekend trip to those places where only the locals know, sitting on the lakeshore, enjoying the sunshine, or walking on a small trail going through the forest, while thinking about the answers to the ultimate questions of life. I'm always trying to improve my BMW 316ti Compact, too, changing the faded emblems, replacing the brittle rubber seals, repairing the reservoir of the window cleaning fluid, changing the rim cover, or renovating the audio system. Since the car lands on my hands, it has become more and more beautiful. Maybe I'll modified it greatly in the near future, who knows.",
+        "zh": "现在，我下班之后最喜欢做的可以让我放松的事情恐怕就是开车去我的住处周围的乡间小路或者是高速公路上开一圈。没有目的地、没有固定的路线、没有固定的时间，凭着我的心情决定下一个路口到底要往哪边拐。开车开够了，心里的压力和烦恼全都抛到脑后了，我再用GPS导航回家。我还喜欢在周末开着车子去那些很小众的，除了当地人以外鲜有人知的景点。在湖边坐一会儿，晒晒太阳，或者是在山间的小路上散散步，思考人生。我也一直在改进我的BMW 316ti Compact，换掉褪色的车标、换掉老化的塑胶条、修理一下漏掉的挡风玻璃清洁液储罐、换个轮毂盖、重新搞一搞被前车主改得不像样的音响什么的。自从车子到了我的手上了之后，它已经变得越来越漂亮了。没准在不久的将来，我也会对它来一点脱胎换骨的大改动呢。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Meanwhile, I'm also planning some big projects, like a long distance road-trip or so. My favourite thing in my childhood now has really become one of my passions.",
+        "zh": "与此同时，我也正在酝酿着一些大计划——比如说一些长途的公路旅行之类的。我儿时喜欢的事物，或许已经成了我的追求之一。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "The car has brought me freedom, so that I don't have to follow a certain time table, don't need to follow a route arranged by someone else, don't have to be in a destination that is set by other people. It allows me to travel according to my own pace, arrange the path by myself, and go to the destination where is deep in my heart. This freedom is exactly my \"Undefined Path\".",
+        "zh": "汽车给我带来的自由，可以让我不必去遵循一个固定的时刻表，不必去遵循一个别人已经设定好的路线，不必去一个别人给我定好的目的地。它可以让我随心所欲地按照自己的节奏去旅行，按照自己的喜好去安排路线，聆听自己心底的声音去自己想要去的目的地。这种自由就是我的Undefined Path——未定义的路线。"
+      }
+    },
+    {
+      "type": "HeadingBlock",
+      "level": 2,
+      "text": {
+        "en": "The Days Full of Uncertainties",
+        "zh": "迷茫的日子"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "At the time I was naming this blog (I've already rebuilt this blog once, now this is actually the 2nd version of the blog), I was stucking in my quarter-life crisis (a period of time usually occurs from one's twenties to thrity-five, when one is not satisfied by the current situation, buy also not motivated to do any changes, doesn't know where to go, and is feeling depressed and insecure). I was losing my interest in programming, but I can't stick to anything else for a long time too. My relationship issues were making everything even worse. At a time I noticed that almost everyone in my life were just acquaintances, instead of friends. For a long time, I don't know what I really want, my mood was not completely broken but constantly at the lower threshold. So \"Path Undefined\" was the best description of my life at that time.",
+        "zh": "在我给这个博客起这个名字的时候（这个博客经历过一次重整，现在的状态已经是第二版的模样）我正处在quarter-life crisis之中（指的是通常在二十多岁到三十五岁之间的一个人生阶段，在这个阶段中人对自己的现状不满意，可是又没有动力去做出改变，不知道何去何从，有非常强烈的沮丧之感与不安全感）。那时我渐渐地对编程失去了兴趣，但是在其余的各方各面又是浅尝辄止，再加上我的感情方面又遭到了沉重的打击，社交方面也是只剩下了认识的人，却鲜有好朋友。所以在相当长的一段时间里，我都搞不清楚我真正想要的到底是什么，情绪虽然算不上低迷但是也处于一种麻木前行的状态。所以Path Undefined这两个词用来形容那时的我恐怕是再贴切不过了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "In my crisis, one thing that I've done the most was probably the so-called \"reboot\", which means get rid of everything that I've done or that I was doing, and find something new to do. Becuase I always had the hope, that those new activities could bring me a new feeling, and then motivate me to continue going forward. However, just like most of my programming projects, these new activities and tries ended with failure. But if I look back, except programming, I haven't done anything else for a long time. These failures and thoughts put more and more disappointments and stress on me, which made me thinking that I am someone who can never stick to one thing for a long time.",
+        "zh": "我在crisis的阶段做的最多的事情可能就是所谓的“重新开始”，也就是放下自己之前一直在做的事情，抛弃掉之前已经做的事情的成果，找一件新的事情做。因为我总寄希望于这件新的事情能给我带来一些不一样的感觉，从而让我能够重新找到一点前进的动力。不过就像我大多数的编程工程一样，这些事情大多数也是以失败告终。其实反观我的过去，除了编程之外，我也真的没有坚持做一件事情做了很长时间的经历。而这些源源不断的失败的尝试又不断地给我造成更多的打击和心理压力，这让我一度以为我或许就是这么一个“无法让心态稳定在一件事物上的人”吧。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I think the turning point occurs after I have moved twice. At the beginning of the last year, I've left the city where I've lived for more than 10 years, and moved to a completely strange city. In the mid of this year, I've moved again, to a very small village. Living alone gives me plenty of time to think about the direction of my life. Slowly, I've redefined myself, and the hope of getting out of the crisis is getting clearer. Few weeks ago, after I've talked with my parents, I finally had the feeling of I'm totally clear about my direction and my goal now.",
+        "zh": "我自认为我的转机出现在两次搬家之后。我在大概去年年初的时候离开了我呆了10余年的城市，搬到了一个完全陌生的环境。今年年中的时候，我又搬到了另一个小地方。独居的生活让我有了大把的时间可以思考人生，慢慢地我重新塑造了对自我的定义，这也让我慢慢地看到了走出crisis阶段的希望。而就在几周之前，在我跟我的父母谈过之后，我终于觉得我似乎已经完全明确了我的新方向，也确定了我的新目标。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "But who knows what will happen next? I'll leave the judgement to the future me. Just for my memory, I think it would be good to keep this name. Since this was a path that I've walked down, a path that I can't define even till now.",
+        "zh": "至于之后的路会走成什么样子，谁会知道呢？以后的事情就留给以后的自己去评判吧。不过作为纪念，我觉得保留着这个名字也不错，毕竟这也是我走过的一段路，一段我自己到现在也无法定义的路。"
+      }
+    },
+    {
+      "type": "HeadingBlock",
+      "level": 2,
+      "text": {
+        "en": "Endless Possibilities",
+        "zh": "无尽的可能性"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "The direction of the future is getting clearer, which neither means that the path of the future is defined, nor means that the possibilities are gone. In the opposite, once the direction is set, I'll experience a lot one the way towards my goal, which is the real source of possibilities. I would take the others experiences as a reference, but I still want to step out my own trail. But before that, my path is undefined.",
+        "zh": "未来的方向明晰起来了，并不代表未来的路就确定了，那些可能性就消失了。正相反，定下了方向之后，在朝着方向前进的路上经历的不同事情，这才是无尽的可能性的来源。在这个过程中我虽然会借鉴其他人的经历，但是我依然想要走出一条自己的路。在走出这条属于我自己的路之前，我未来的路线就是未定义的。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Step out my own way sounds easily, but it is actually very difficult. A lot of people get their confidence by seeing others doing the same or very similar things successfully. Because if there is someone who has succeed, the fear of uncertainties deeply rooted in ones heart will also fade away. Comparing those who walk down the main road, to be an explorer is hard. Maybe explorers could take some experiences as references, but they still want to step their own way out. Thus, they have to overcome their fear of uncertainties. There will always be a lot of choices before those explorers, each of them will affect the future. Whether it is good or bad, smooth or bumpy, succeed or failure, they might be related to one of those choices. For a lot of choices that they are facing, explorers won't find any experiences from other people to tell them which one to choose. Thus people tend to avoid those fears. But in my opinion, those explorers love those uncertainties and embrace them!",
+        "zh": "走自己的路说起来轻松，其实是一件蛮困难的事情。人很多时候是看到了其他人的成功经验之后才有了信心去做同样的或者是非常类似的事情。因为一旦知道了有别人成功了，人心里的那种对不确定性因素的恐惧感也就会变得缓和许多。相比于走大路的人，做一个开拓者可并不是一件轻松的事情。因为虽然可能会有一些相似的经历可以借鉴，然而开拓者们想要走出一条自己的路，首先需要克服的就是自己对不确定性的恐惧感。因为在开拓者的面前总是会有非常多的选择，每一个选择可能都会影响到自己的未来。未来是好还是坏、是平坦还是坎坷、是成功还是失败，很可能就取决于这其中的某一个选择。对于开拓者来说，许多选择对他们来说都是没有任何其他人的经验可以借鉴的。所以，人们会对这种不确定性抱有恐惧之情。然而在我看来，那些开拓者们热爱这些不确定性，并且还敞开怀抱拥抱它们！"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "People are afraid of those uncertainties because they are afraid of failure, at least so I guess. Uncertainties means they will have a chance to fail, and uncertainties put people at a position where they won't know the result for a long time, which drives people mad. However, uncertainties are called \"uncertainties\", because it also has a side of good. Since those uncertainties bring us endless possibilities, bring us surprises, bring us the waves, bring us the challenges, our efforts are becoming valueable, and the travels are becoming more rich and fulfilled, and the out-breath after one has reached the destination is becoming deeper. They drive us out of the daily routine, force us to face the complexity of life. The more they do so, the deeper the impression that everyday will leave in our lives. As days passing by, our memory will get richer, and one will feel the time is getting slower with many different memories.",
+        "zh": "我想，人之所以惧怕这种不确定性，归根结底还是因为人惧怕失败，而不确定性就意味着有一定的机率人会失败，并且人觉得长时间陷入那种“悬而未决”的心态中是一件非常难过的事情。然而不确定性之所以叫做不确定性，就是因为它也有它那良善的一面。因为它带来了无尽的可能性、带来了惊喜、带来了起伏与波澜、带来了挑战，从而使得人的努力显得更加有价值，从而使旅途更加充实，从而使人们达到了目的地之后的感慨变得更加深沉。它使人走出千篇一律的日常，使得人们不得不去面对生活中的种种复杂度。越是这样，生命中的每一天越会在人的记忆中留下更深的印象，久而久之，人的记忆变得丰富起来，从感觉上来讲，时间就变慢了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "To conclude, althought these uncertainties are bringing fears, I still want to embrace it, love it, like an explorer. Because the fear is not even comparable to the possibilities that it is bringing to us. That's the reason why I love the feeling of \"path undefined\", and also the reason why I named this blog \"Path Undefined\".",
+        "zh": "所以，即便这种不确定性会带来恐惧，我依然想要像一个开拓者一样拥抱它，热爱它。因为它所带来的无尽的可能性是它带来的恐惧所无法比拟的。这就是为什么我喜欢那种“道路未定义”的感觉的原因，也就是为什么我把我的博客叫做Path Undefined的原因。"
+      }
+    },
+    {
+      "type": "HeadingBlock",
+      "level": 1,
+      "text": {
         "en": "About the Author",
         "zh": "关于作者"
       }
@@ -120,29 +342,15 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "I have a bunch of hobbies, but among them, I like travelling, painting, fixing things (especially my car) and photography the most. And each of them is a reflection of one aspect of my character.",
-        "zh": "我有不少兴趣，不过其中我自己最喜欢的还是旅行、画画、修理各种事物（尤其是车子）和摄影。这些兴趣每一样都是我的性格的一种自然反映。"
+        "en": "I have a bunch of hobbies, but among them, I like travelling, painting (drawing comics for example), fixing things (especially my car) and photography the most. And each of them is a reflection of one aspect of my character. If you have really read from the beginning till here, you probably already know why I'm fond of travelling and car repairing. However, I think I have to explain why I love painting and photography.",
+        "zh": "我有不少兴趣，不过其中我自己最喜欢的还是旅行、画画（尤其是画漫画）、修理各种事物（尤其是车子）和摄影。这些兴趣每一样都是我的性格的一种自然反映。如果你一直从开头读到了现在，你肯定已经知道了为什么我喜欢旅行和修车了。或许我应该解释一下为什么我喜欢画漫画和摄影。"
       }
     },
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "I'm curious, like to know new things. I'm especially being attracted by nature. I love to discover different terrain, different vegetation, and I love wild lives. I'm also interested in getting to know different cultures. Thus I like travelling, especially the travelling styles where I have to really put my own effort in, like hiking, road-trip, and so on.",
-        "zh": "我是个很好奇的人，喜欢接触新鲜的事物。我非常喜欢自然，特别喜欢探索不同的地形、地貌和植被，特别喜欢野生动物，也喜欢了解不同的文化。所以我喜欢旅行，尤其是那些身体力行的旅行方式，比如说徒步、自驾什么的。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "I have a lot of weird ideas, so I eagerly want to have an outlet of my creativity. For this reason I've tried a lot of creative activities: writing lacks impact, music is too abstract, making games requires too much time, effort and knowledge. The only possibility left for me seems to be painting, which is by far the best way to express myself.",
-        "zh": "我有不少怪诞的想法，所以我总是非常迫切地需要一个创造力的宣泄口。为此我尝试过不少创作方式：写作太缺少冲击力，音乐太抽象，做游戏则需要相当多的时间、精力与知识。剩下的好像也就只有画画了，所以我喜欢画画，我觉得这恐怕是最适合我的创作方式了。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "Regarding fixing things, I’m always seeking for some unrealistic \"eternity\". If I like something, I really want to live with it for the whole life. However the only thing that can't be changed is that everything is changing. The best compromise would be change things by myself in a good way, thus I like fixing things. Lawn, furnitures, electronic gadges and cars, I've fixed all of them. And since I love road-trip, car is naturally becoming the favourite object that I'd like to fix.",
-        "zh": "至于喜欢修修补补的原因嘛，那是因为我对“永恒”似乎有一种不切实际的追求。如果我喜欢什么东西，我真的就希望能用这个东西用到老。可是世界上唯一不变的事情恐怕就是世界上所有的事情都在变化了。最好的折衷方案恐怕就是靠我自己的努力不断地把事物往好的方向改变，所以我喜欢修理各种各样的东西。从草坪到家具到电器到车子我都修过。而我又喜欢自驾旅行，所以车子就很自然地成了我最喜欢修的东西之一。"
+        "en": "I have a lot of weird ideas, so I eagerly want to have an outlet of my creativity. And I really want it to be a bridge between me and other people, so that I can reach out people with my work of creativity. For this reason I've tried a lot of creative activities: writing lacks impact, music is too abstract, making games requires too much time, effort and knowledge. The only possibility left for me seems to be painting, which is by far the best way to express myself.",
+        "zh": "我有不少怪诞的想法，所以我总是非常迫切地需要一个创造力的宣泄口。我也非常想把这件事情作为一个我与其他人之间的桥梁，从而让我能通过我的创作成果来接触其他人。为此我尝试过不少创作方式：写作太缺少冲击力，音乐太抽象，做游戏则需要相当多的时间、精力与知识，剩下的好像也就只有画画了。之所以我喜欢画画，是因为我觉得这恐怕是最适合我的创作方式了。"
       }
     },
     {
@@ -153,141 +361,10 @@
       }
     },
     {
-      "type": "HeadingBlock",
-      "level": 1,
-      "text": {
-        "en": "About the Name of the Blog",
-        "zh": "关于博客的名字"
-      }
-    },
-    {
       "type": "ParagraphBlock",
       "content": {
-        "en": "I'm quite satisfied with the name of the blog, because these two words are reflecting different aspects of my life.",
-        "zh": "我对这个博客的名字可以说是相当满意，因为这两个词真的是能反映出我的方方面面。"
-      }
-    },
-    {
-      "type": "HeadingBlock",
-      "level": 2,
-      "text": {
-        "en": "Error Message",
-        "zh": "报错信息"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "I'm a programmer, \"Path Undefined\" tends to remind me of some kind of error messages from a failed program. It was one of my dreams once to be a programmer.",
-        "zh": "我的工作是码农，“Path Undefined”让人一看就觉得像是什么程序的报错信息。当个码农曾经也算是我的梦想之一。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "I can still remember it clearly that I were at 3rd grade in primary school, and it was a rainy day in the beginning of October. My father and I were going to the \"Street of Electronic Gadgets\" in town looking for a PC for my family. To buy a computer was a big purchase at that time with the level of technology and consumption taken into consideration. With \"comparing deals before buying\" in our head, we have walked down the \"Street of Electronic Gadgets\" and visited quite a few retailers. At last, we have decided to buy a Lenovo PC. At that time, Lenovo was actually not called Lenovo, but Legend. And I can clearly remember that the CPU was a Pentium III, 450 MHz, the RAM was 64 Mb, the monitor was a CRT, 15 inch, as big as a small microwave nowadays, and the operating system was Windows 98. Since we had that PC, my life was bond to computers in a way.",
-        "zh": "我还记得相当清楚，我上小学三年级的时候，十月初，是个下雨天。我和我爸爸跑去当时城里的“电子街”看电脑。以当时的技术和消费水平来看，电脑这种东西算是一个大件电器了。我们本着货比三家的原则，沿着“电子街”跑了好几家店。最后相中了一款联想的电脑。那个时候的联想还不叫Lenovo，而是叫Legend。我还很清楚地记得电脑当时的CPU是奔腾III，450MHz，内存是64MB，显示器是电子管的，15寸，有现在的一个小微波炉那么大，操作系统还是Windows 98。自从有了那台电脑，我就跟电脑结下了蛮深的羁绊。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "After we have got the PC, for a long time, I were addicted to PC games. Later, I started to develop an interest in programming. At first, I've just learnt some C++, and the most complex program that I could do was a command line program with most of the code copied from a textbook. I've never thought about that in the following years, I've written more and more programs, and they were becoming more and more complex. In the summer vacation after I've graduated from the high-school, I've written a plugin for the game called \"Live for Speed\", which is also the first time I've understood what programming really is. Soon after that, I've written a little game. My plan was to build a game about turrets shooting asteroids. In the middle of the screen there is a turret, which has a mass. And the asteroids will fly into the screen, and fly towards the turret according to the law of universal graviation. The play have to control the turret to shoot those asteroids, otherwise they will hit the turret and it will be a Game Over. My code of the game was a huge mess, there were more than 200 errors occuring in the first compilation. I were so patient that I've correct them one by one. And once the program was getting running, then several memory errors came up, all sorts of \"segmentation fault\". I had no single idea what that meant. With some painful struggles, I've managed to make the program \"segmentation fault\" free. And then bugs were following. The bullet of turrets missed, but the asteroids were getting destroyed. And the asteroid missed the turret, but it was a Game Over. These bugs has drained the last patience from me for this program, thus the game was never finished.",
-        "zh": "有了电脑之后的相当长一段时间里，我对游戏相当沉迷。后来，我慢慢地开始对编程有了兴趣。刚开始的时候稍稍学了点C++，最多也就是能照着书上的例子写点命令行程序的水平。谁想到后来我写的程序越来越多，越来越复杂。高中毕业之后的那一年，我用C++写了一个《Live for Speed》的游戏插件，那也是我第一次真正地理解了编程是怎样一回事。在那之后，我又写了一个小游戏。我计划做一个炮塔打小行星的游戏——屏幕的正中央有一个炮塔，炮塔有一定的质量。而从屏幕边缘飞进来的小行星就会以万有引力的规律朝着炮塔飞。而玩家必须操纵炮塔把这些小行星打掉，不然的话小行星撞到炮塔就算玩家输了。当时我的代码写得乱七八糟，第一次编译的时候光是编译器报错就有200多个。后来我真是耐着性子把它们一点一点地都改掉。没想到程序跑起来之后，内存错误又一大堆，还有各种segmentation fault的报错，我当时根本就不明白这些报错是什么意思。我费了好一番功夫才把游戏改到没有segmentation fault的程度。可是谁想到真的玩起来，游戏又是bug连连。一会儿炮塔打出的炮弹明明打偏了，可是小行星还是被摧毁了。有的时候小行星明明没有撞到炮塔，可是游戏却Game Over。我绞尽脑汁一直改到放弃也没有把那个游戏改到可以让别人玩的程度。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "再后来，我遇到了不少也喜欢编程的朋友。我经常是缠着他们问各种各样的问题。渐渐地，我也明白了代码并不是随便写写就可以的，代码也有干净与肮脏之分。我也逐渐地明白了该怎么组织一个大工程的代码。不过就像是所有的刚入门的程序员一样，我当时有一种“新程序员特有的乐观主义”，觉得不管是多大的工程，对于自己来说都只是一个时间问题。所以我好几次尝试写游戏，然而除了俄罗斯方块、打飞机、贪吃蛇这类的小游戏之外，我还真没写过一个像样的游戏作品。渐渐地我也开始明白这种“乐观主义”其实才是程序员的大敌。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "那个时候我还在大学里读机械制造。我虽然对机械很感兴趣，但是机械制造绝对是选错了专业。因为我对机械感兴趣的点在于我自己可以动手做一辆车，或者是可以自己设计一个什么机械之类的。然而机械制造完全跟动手无关，更多的时候，机械制造只是计算和绘图而已。我真的无法接受双手不用沾油污的机械制造专业。所以，我咬咬牙，转到了信息学（相当于计算机科学）专业。转了专业之后，我感觉真的是如鱼得水。在机械制造专业里学了知识之后，我可没有什么条件能让我做个变速箱出来。可是在信息学专业里不管学了什么，基本上都可以动手试一试，唯一的成本就是一台电脑而已。再加上我老是觉得自己之前浪费了太多的时间，所以学习像是学疯了一样。第一学期我考试考掉了不少第三学期的课程，第二学期考掉了好多第四学期的课程。不管是课上教了什么东西，我都想动手做一做才满意。虽然我的毕业设计遭遇了一点坎坷，导致我毕业的时间并没有提前多少。不过我还是利用这四年的时间写了好多小工程，大多数小工程都是以失败告终，但是我还是从中积累了相当丰富的编程经验。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "我找工作的过程，包括几次换工作的过程都可以说是相当顺利。因为公司似乎蛮喜欢那种既有理论基础，又有丰富的实战经验的人的。我先是从Java后端开始干起，慢慢地过渡到全栈，最后又慢慢地过渡到了前端。很多人不理解我为什么要这样走，很多人都觉得前端的工作比后端要低级得多。其实我并不这么认为。后端的服务是跟计算机打交道，就算是有一条消息总线，各种请求或者是消息的发送，一来一回，充其量是“回合制”的游戏。而前端的应用是跟人打交道，人天生就有一种可以在5分钟之内找到前端应用里面的bug的能力，因为人不是电脑，不会按照套路出牌。另外，后端要是性能上不去，大多数时候开发者的第一反应都是再开几台服务器吧。而前端的性能要是上不去，尤其是渲染的性能上不去，那可真是没有服务器能给我开。前端的运行环境更加复杂，更加受限，交互程度比后端高很多，数据的管理也要比后端更有挑战性。对我来说，工资可能不是最重要的因素，面子可能不是最重要的因素，我需要的是挑战，而不是安定。所以我坚定地一直在往前端的方向走着。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "其实在生活里，我做的私人工程可不只是前端后端那么简单。我也研究了不少编译器原理、操作系统、物联网、还研究了一些物理模拟的知识。可是越研究到后面，我越发现我的思维似乎落入了一种固定的模式。因为我觉得不管是什么方面的编程，前端也好、后端也好、物联网也好、编译器也好、操作系统也好、大数据也好、人工智能也好，到了最后，它们都是在回答四个问题：怎么存储/表示数据？怎么获取数据？怎么操作/转化数据？怎么发布数据？其实这四个问题也就是信息学的本质问题。所以一提起编程，我的脑子里就自动地把所有的东西归类，整理成这四个问题的答案，然后剩下的事情就是枯燥的实现了。渐渐地，我对编程失去了兴趣。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "目前，编程仍然是我的工作。然而我已经把它完全当作一种生计，而不是一种追求了。不过我之所以有现在这样的思维方式、以及对世界的理解方式，都是与当时热衷于编程有关的。所以虽然它已经不再是我的追求了，但是它已经在我的生命中留下了深深的烙印。"
-      }
-    },
-    {
-      "type": "HeadingBlock",
-      "level": 2,
-      "text": {
-        "en": "The Days Full of Uncertainties",
-        "zh": "迷茫的日子"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "在我给这个博客起这个名字的时候（这个博客经历过一次重整，现在的状态已经是第二版的模样）我正处在quarter-life crisis（指的是人在20多岁到35岁之间突然迷失方向，缺乏安全感、幸福感和满足感，从而导致焦虑心态）的阶段。那时我渐渐地对编程失去了兴趣，但是在其余的各方各面又是浅尝辄止，再加上我的感情方面又遭到了沉重的打击，社交方面也是只剩下了认识的人，却鲜有好朋友。所以在相当长的一段时间里，我都搞不清楚我真正想要的到底是什么，情绪虽然算不上低迷但是也处于一种麻木前行的状态。所以Path Undefined这两个词用来形容那时的我恐怕是再贴切不过了。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "我在crisis的阶段做的最多的事情可能就是所谓的“重新开始”，也就是放下自己之前一直在做的事情，抛弃掉之前已经做的事情的成果，找一件新的事情做。因为我总寄希望于这件新的事情能给我带来一些不一样的感觉，从而让我能够重新找到一点前进的动力。不过就像我大多数的编程工程一样，这些事情大多数也是以失败告终。其实反观我的过去，我也真的没有坚持做一件事情做了很长时间的经历。而这些源源不断的失败的尝试又不断地给我造成更多的打击和心理压力，这让我一度以为我或许就是这么一个“无法让心态稳定在一件事物上的人”吧。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "我自认为我的转机出现在几次搬家之后。我在大概去年年初的时候离开了我呆了10余年的城市，搬到了一个完全陌生的环境。今年年中的时候，我又搬到了另一个小地方。独居的生活让我有了大把的时间可以思考人生，慢慢地我重新塑造了对自我的定义，这也让我慢慢地看到了走出crisis阶段的希望。而就在几周之前，在我跟我的父母谈过之后，我终于觉得我似乎已经完全明确了我的新方向，也确定了我的新目标。至于之后的路会走成什么样子，谁会知道呢？以后的事情就留给以后的自己去评判吧。不过作为纪念，我觉得保留着这个名字也不错，毕竟这也是我走过的一段路，一段我自己到现在也无法定义的路。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "我自认为我的转机出现在几次搬家之后。我在大概去年年初的时候离开了我呆了10余年的城市，搬到了一个完全陌生的环境。今年年中的时候，我又搬到了另一个小地方。独居的生活让我有了大把的时间可以思考人生，慢慢地我重新塑造了对自我的定义，这也让我慢慢地看到了走出crisis阶段的希望。而就在几周之前，在我跟我的父母谈过之后，我终于觉得我似乎已经完全明确了我的新方向，也确定了我的新目标。至于之后的路会走成什么样子，谁会知道呢？以后的事情就留给以后的自己去评判吧。不过作为纪念，我觉得保留着这个名字也不错，毕竟这也是我走过的一段路，一段我自己到现在也无法定义的路。"
-      }
-    },
-    {
-      "type": "HeadingBlock",
-      "level": 2,
-      "text": {
-        "en": "Infinite Possibilities",
-        "zh": "无尽的可能性"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "未来的方向明晰起来了，并不代表未来的路就确定了，无尽的可能性就消失了。正相反，定下了方向之后，在朝着方向前进的路上经历的不同事情，这才是无尽的可能性的来源。而我会在这个过程中借鉴其他人的做法走出一条自己的路。但是在此之前，我未来的路就是未定义的。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "走自己的路说起来轻松，其实是一件蛮困难的事情。人很多时候是借鉴了其他人的经验之后才有了信心去做同样的或者是非常类似的事情。因为一旦知道了有别人成功了，人心里的那种对不确定性因素的恐惧感也就会变得缓和许多。相比于走大路的人，做一个开拓者可并不是一件轻松的事情。因为虽然可能会有一些相似的经历可以借鉴，然而开拓者们想要走出一条自己的路，首先需要克服的就是自己对不确定性的恐惧感。因为在开拓者的面前总是会有非常多的选择，每一个选择可能都会影响到自己的未来。未来是好还是坏、是平坦还是坎坷、是成功还是失败，很可能就取决于这其中的某一个选择。对于开拓者来说，许多选择对他们来说都是没有任何其他人的经验可以借鉴的。所以，人会对这种不确定性抱有恐惧之情。在我看来，要想消除恐惧，最好的办法恐怕就是拥抱它、热爱它。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "我想，人之所以惧怕这种不确定性，归根结底还是因为人惧怕失败，而不确定性就意味着有一定的机率人会失败，并且人觉得长时间陷入那种“悬而未决”的心态中是一件非常难过的事情。然而不确定性之所以叫做不确定性，就是因为它也有它那良善的一面。因为它带来了无尽的可能性、带来了惊喜、带来了起伏与波澜、带来了挑战，从而使得人的努力显得更加有价值，从而使旅途更加充实，从而使人们达到了目的地之后的感慨变得更加深沉。它使人走出千篇一律的日常，使得人们不得不去面对生活中的种种复杂度。越是这样，生命中的每一天越会在人的记忆中留下更深的印象，久而久之，人的记忆变得丰富起来，从感觉上来讲，时间就变慢了。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "zh": "所以，即便这种不确定性会带来恐惧，我依然想要拥抱它，热爱它。因为它所带来的无尽的可能性是它带来的恐惧所无法比拟的。这就是为什么我喜欢那种“道路未定义”的感觉的原因，也就是为什么我把我的博客叫做Path Undefined的原因。"
+        "en": "If you really have gone through the huge wall of text from the beginning till here, I have to say \"thank you very much\" sincerely. You know, nowadays, not everyone has the patience and the time to understand a stranger. I hope that my articles can somehow help you, and inspire you and your life.",
+        "zh": "如果你从头到尾读完了我写的这篇洋洋洒洒的《关于》的话，我真的得向你道谢。要知道现在这个时代可不是所有人都有那个耐心和时间去深入了解一个素未谋面的人的。我衷心地希望我写的博客能够帮助你，给你的人生一些启发。"
       }
     }
   ]
