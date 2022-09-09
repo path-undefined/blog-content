@@ -234,13 +234,6 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "Meanwhile, I'm also planning some big projects, like a long distance road-trip or so. My favourite thing in my childhood might have already become one of my passions for my whole life.",
-        "zh": "与此同时，我也正在酝酿着一些大计划——比如说一些长途的公路旅行之类的。这是因为我非常喜欢自然，我很喜欢探索自然的奥秘，喜欢欣赏不同的地形地貌造就的天然艺术品、喜欢欣赏不同的植被对不同地形地貌的点缀，我还喜欢看野生动物，也对不同的文化与人非常好奇。而汽车，就是把我和所有这些我喜欢的事物连接起来的媒介。我儿时喜欢的事物，或许已经成了我一生的追求之一。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
         "en": "The car has brought me freedom, so that I don't have to follow a certain time table, don't need to follow a route arranged by someone else, don't have to be in a destination that is set by other people. It allows me to travel according to my own pace, arrange the path by myself, and go to the destination where is deep in my heart. This freedom is exactly my \"Undefined Path\".",
         "zh": "汽车给我带来的自由，可以让我不必去遵循一个固定的时刻表，不必去遵循一个别人已经设定好的路线，不必去一个别人给我定好的目的地。它可以让我随心所欲地按照自己的节奏去旅行，按照自己的喜好去安排路线，聆听自己心底的声音去自己想要去的目的地。这种自由就是我的Undefined Path——未定义的路线。"
       }
@@ -343,7 +336,14 @@
       "type": "ParagraphBlock",
       "content": {
         "en": "I have a bunch of hobbies, but among them, I like travelling, painting (drawing comics for example), fixing things (especially my car) and photography the most. And each of them is a reflection of one aspect of my character. If you have really read from the beginning till here, you probably already know why I'm fond of travelling and car repairing. However, I think I have to explain why I love painting and photography.",
-        "zh": "我有不少兴趣，不过其中我自己最喜欢的还是旅行、画画（尤其是画漫画）、修理各种事物（尤其是车子）和摄影。这些兴趣每一样都是我的性格的一种自然反映。如果你一直从开头读到了现在，你肯定已经知道了为什么我喜欢旅行和修车了。或许我应该解释一下为什么我喜欢画漫画和摄影。"
+        "zh": "我有不少兴趣，不过其中我自己最喜欢的还是旅行、画画（尤其是画漫画）、修理各种事物（尤其是车子）和摄影。这些兴趣每一样都是我的性格的一种自然反映。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I love mother nature, I love discovering the secrets of nature. I like to watch the natural artwork made of different types of terrain, I enjoy the decorations of the terrains made of different kinds of vegetations. I also love wild animals, and enjoy getting to know different cultures and different people. Besides, the favourite thing of mine, the car, is the media to chain all those wonderful experiences together. That's the reason why I love travelling, especially road-trips so much.",
+        "zh": "我喜欢自然，喜欢探索自然的奥秘。我喜欢欣赏不同的地形地貌造就的天然艺术品，也喜欢欣赏不同的植被对不同地形地貌的装饰与点缀。我喜欢野生动物，也非常喜欢了解不同的文化与不同的人。更何况，我最喜欢的事物——车子——恰恰是把所有这些绝妙的经历串起来的一种媒介。这就是为什么我喜欢旅行，尤其是公路旅行的原因。"
       }
     },
     {
@@ -351,6 +351,13 @@
       "content": {
         "en": "I have a lot of weird ideas, so I eagerly want to have an outlet of my creativity. And I really want it to be a bridge between me and other people, so that I can reach out people with my work of creativity. For this reason I've tried a lot of creative activities: writing lacks impact, music is too abstract, making games requires too much time, effort and knowledge. The only possibility left for me seems to be painting, which is by far the best way to express myself.",
         "zh": "我有不少怪诞的想法，所以我总是非常迫切地需要一个创造力的宣泄口。我也非常想把这件事情作为一个我与其他人之间的桥梁，从而让我能通过我的创作成果来接触其他人。为此我尝试过不少创作方式：写作太缺少冲击力，音乐太抽象，做游戏则需要相当多的时间、精力与知识，剩下的好像也就只有画画了。之所以我喜欢画画，是因为我觉得这恐怕是最适合我的创作方式了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I have some unrealistic expectations for the concept of \"eternity\", especially for those things that I like. If I really like something, I'd like to keep it, use it, for the whole life. But I also know that everything in this world is changing constantly. The only thing which won't change would be the sentence \"everything is changing\". So my compromise is to change things that I like into a good direction with my own efforts. From lawn, to electronic gadgets, to furniture, to cars, I've repaired all of them. And since car is one of my passion, it has naturally become one of my favourite reparing objects.",
+        "zh": "我总是对“永恒”这个概念有一种不切实际的追求，尤其是对我喜欢的那些事物。如果我喜欢一样事物，我就会想要一直留着它，一直用它一辈子。但是我也知道，世间万物无一不处在持续的变化中，唯一不变的恐怕就是“世间万物都在改变”这句话了。所以，我的折衷方案就是尽可能靠我自己的力量，把我喜欢的那些事物朝着好的方向改变。从草坪、到电子产品、到家具、到车子，我都修理过。又因为我喜欢车子，所以它自然而然地就成了我最喜欢的修理对象之一了。"
       }
     },
     {
