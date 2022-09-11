@@ -64,7 +64,7 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "Actually, it is a dangerous decision to buy those spray cans.",
+        "en": "Actually, it was a dangerous decision to buy those spray cans, because I've never had any satisfying result with a spray can. Either the spray can is too close to the object, making all the paint focused at one spot, and soon after, the paint will start dripping; or the spray can is too far away, and the paint is not going onto the object at all, but spreads homogeneously in the whole room, and paints everything in the room, including myself, in the color of the spray can. Out of this reason, I was very nervous when I started the painting process.",
         "zh": "其实买喷罐是有点冒险的决定。因为说实话我之前从来没有用喷罐成功地给一个东西上油漆上到我满意的状态过。要么就是喷罐离物体太近，然后所有的颜料就会集中到一个点上面去，过不久多余的颜料就会开始滴下来。要么就是喷罐离物体太远，油漆飘得满屋子都是，把所有周围的物品全都染上喷罐喷出来的颜色。所以这次开始喷油漆的时候，我还是相当紧张的。"
       }
     },
@@ -83,12 +83,14 @@
     {
       "type": "ParagraphBlock",
       "content": {
+        "en": "White paint first. I have to shake the spray can first, and hold the trim in one hand, and hold the spray can in another. Ready, steady... Spray! Crap! It fails... I don't know why, but shortly after the white paint has been sprayed onto the trim, some spots became darker. It was just like a dark yellow drop of oil spreading in the white paint. I sprayed more onto the trim, hoping that the white color could cover those dark yellow spots, but I sprayed too much, the paint started to drip, left a long trail on the trim - the effort was wasted.",
         "zh": "首先是白漆，先把油漆摇匀，然后一手拿着饰条，一手拿着喷罐。准备好……喷漆！啊呀！果然失败了……不知为何，白色的油漆喷到饰条上面，过了一段时间之后，有一些地方的白漆就开始发黑，像是一滴黄黑色的油漆滴到了白油漆里面一样。我连忙喷更多的白漆上去，想要盖住难看的黄黑色。结果油漆喷得太多了，开始往下滴，在饰条表面上留下一条长长的痕迹——之前的努力白费了。"
       }
     },
     {
       "type": "ParagraphBlock",
       "content": {
+        "en": "My confidence and mood was falling into a blackhole because of this failure coming from no where. But those trims still have to be mounted back into the car. I couldn't leave them like that. So in the next day, after the paint was dried, I started to use the sand paper to sand down those ugly white color mixed with yellow spots. It was not long before I realized that the sanding machine, which I've bought before for woodworking, was much more efficient. It sanded down the ugly paint easily. Then I started my second try.",
         "zh": "虽然我的信心和心情因为这个不知原因为何的失败跌到了谷底，但是漆了一半的塑料件还是要装回到车里去的。要装回车里去，总不能留着这么难看的痕迹吧？第二天，难看的油漆干掉了之后，我想试试看能不能用砂纸把之前涂坏的给锉掉。刚开始的时候我还在用砂纸，后来我直接拿出了以前做木工的电动研磨机。没想到用那个机器锉起油漆来就快得多了，三两下我就把之前涂的油漆锉掉了，接着我又开始第二次尝试。"
       }
     },
@@ -107,13 +109,29 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "zh": "本着不满意就宁可重来的精神，我经过了数不清多少次试错，终于把饰条给漆到了自己满意的状态。我先是发现喷漆喷得太厚就会滴下来，所以宁可喷薄薄一层，然后等到它干掉之后再喷下一层；然后我又发现在喷漆的时候心态很重要，不能太在意第一次喷没有喷到的小地方，而要相信经过了整个过程之后，所有的地方都是可以顾及到的；后来我又发现涂过清漆的表面就像是一个大号吸尘器，空气中的浮尘都会像是铁砂被磁铁吸引一样往清漆表面上漂，宁可不喷清漆也比清漆里面一大堆灰尘来得要强；再后来我发现磨砂的塑料表面比光滑的塑料表面更好上漆；再后来我又发现那些黄黑色的点似乎是因为我的塑料零件表面有油污才留下的，只要用干的微纤维抹布擦干净就不会有恼人的污点；再后来我又发现可以只锉掉那些黄黑色的黑点的部分，然后补上新的一层漆就可以了……我在试错的过程中总结出了好多好多杂七杂八的经验，有些能描述出来，有些纯粹就是一种感觉。不过如果以后要是有人问我，用喷罐喷漆有什么诀窍的话，我绝对会说：“没什么固定的诀窍，最关键的就是耐心。”"
+        "en": "With \"if it is not satisfying then do it over\" in my mind, I tried it for countless times. At last I finally got the satisfying result.",
+        "zh": "本着不满意就宁可重来的精神，我经过了数不清多少次试错，终于把饰条给漆到了自己满意的状态。"
       }
     },
     {
       "type": "ParagraphBlock",
       "content": {
-        "zh": "没有什么比成就感更能让人觉得满足了。我看着地上的那些近乎完美的鲜艳的白色与绿色，突然有一种想要舔的冲动。不过恐怕我要让你失望了，没，我没舔，我克制住了。"
+        "en": "At first, I found that if the paint coat is too thick, then it is garanteed to drip. Thus I'd rather spray a thin coat at a time, after it dries, then the next coat. Then I found the attitude is important, I shouldn't focus on those spot which haven't been covered by the first coat. I have to believe the whole process, after the several coats, all the spots will be covered. And then I've noticed that the clear coat is basically a powerful vaccum cleaner, all the dust in the air was flying to the clear coat surface just like iron powder being pulled by the magnet. So I decided not to use clear coat. And then I noticed that the sanded surfaces were better for painting than those smooth surfaces. And then I found those dark-yellow spots were actually grease left on the surface of the interior trims. If I cleaned it up with micro-fiber cloth, it wouldn't appear again. At last I noticed that I could sand down those dark-yellow spots only, and cover them with several new paint coats...",
+        "zh": "我先是发现喷漆喷得太厚就会滴下来，所以宁可喷薄薄一层，然后等到它干掉之后再喷下一层；然后我又发现在喷漆的时候心态很重要，不能太在意第一次喷没有喷到的小地方，而要相信经过了整个过程之后，所有的地方都是可以顾及到的；后来我又发现涂过清漆的表面就像是一个大号吸尘器，空气中的浮尘都会像是铁砂被磁铁吸引一样往清漆表面上漂，宁可不喷清漆也比清漆里面一大堆灰尘来得要强；再后来我发现磨砂的塑料表面比光滑的塑料表面更好上漆；再后来我又发现那些黄黑色的点似乎是因为我的塑料零件表面有油污才留下的，只要用干的微纤维抹布擦干净就不会有恼人的污点；再后来我又发现可以只锉掉那些黄黑色的黑点的部分，然后补上新的一层漆就可以了……"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I gathered a lot of experiences from here and there while trying and failing. I can describe some of them, but the others are just a sort of feeling. If someone asks me in the future, \"are there any tips for using spray cans?\" I'd definitely say, \"nope, there is no such tips, but patience is the key.\"",
+        "zh": "我在试错的过程中总结出了好多好多杂七杂八的经验，有些能描述出来，有些纯粹就是一种感觉。不过如果以后要是有人问我，用喷罐喷漆有什么诀窍的话，我绝对会说：“没什么固定的诀窍，最关键的就是耐心。”"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Nothing is more satisfying than the sense of accomplishment! Watching those interior trims on the ground, in bright white and green, close to perfect, \"they are so lovely\", so I think. Suddenly I wanted to lick them, somehow. However, I have to disappoint you here. No, I didn't lick it, I inhibited those weird impulses",
+        "zh": "没有什么比成就感更能让人觉得满足了！我看着地上的那些近乎完美的鲜艳的白色与绿色，感慨着它们真是太漂亮了，突然我有一种想要舔它们的冲动。不过恐怕我要让你失望了，没，我没舔，我克制住了。"
       }
     },
     {
@@ -161,7 +179,7 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "zh": "那根针可是天线传输信号进去的针，没了那根针，音响头的收音功能基本上就处于报废状态。我心里咯噔一下，心想这下完了，这音响头恐怕要报废了吧。后来仔细看了看，这天线的插孔好像可以卸下来，或许我可以只买一个天线的插孔？我连忙抄起螺丝刀把插孔卸了下来，然后上网搜了一下，发现根本没有卖这种东西的商家。但是之前的音响的转接头的插孔是跟车上的插头配套的，我又依稀可以看见音响里面连接插孔的金属触点。没准我能自己做一个天线的接头呢。于是我拿着工具把音响头大卸八块，利用之前音响上的转接头和导线做了一个天线接头出来。然后装到车上一试，成功了！虽然接收的信号不怎么样，但是至少还是能听广播的。"
+        "zh": "那根针可是天线传输信号进去的针，没了那根针，音响头的收音功能基本上就处于报废状态。我心里咯噔一下，心想这下完了，这音响头恐怕要报废了吧。后来仔细看了看，这天线的插孔好像可以卸下来，或许我可以只买一个天线的插孔？我连忙抄起螺丝刀把插孔卸了下来，然后上网搜了一下，发现根本没有卖这种东西的商家。我灵机一动，心想之前的音响的转接头的插孔是跟车上的插头配套的，卸下来了音响头上的插孔之后，我又依稀可以看见里面连接插孔的金属触点。没准我能把转接头上的插孔和金属触点用导线连起来，自己做一个天线的接头呢。于是我拿着工具把音响头大卸八块，利用之前音响上的转接头和导线做了一个天线接头出来。然后装到车上一试，果然成功了！虽然接收的信号不怎么样，但是至少又能听广播啦！"
       }
     },
     {
