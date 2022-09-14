@@ -30,6 +30,6 @@ for (let filename of readdirSync(ARTICLES_DIRECTORY)) {
 
 writeFileSync(
   TARGET_FILE,
-  JSON.stringify(destinations),
+  JSON.stringify(destinations, null, 2),
   { encoding: 'utf-8' },
 );
