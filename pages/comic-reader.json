@@ -1,0 +1,25 @@
+{
+  "type": "ComicReaderPage",
+  "i18n": {
+    "backToListLabel": {
+      "en": "Back to Comics",
+      "de": "Zurück nach Comics",
+      "zh": "回到漫画列表"
+    },
+    "nextPageLabel": {
+      "en": "Next page",
+      "de": "Nächste Seite",
+      "zh": "下一页"
+    },
+    "prevPageLabel": {
+      "en": "Previous page",
+      "de": "Vorherige Seite",
+      "zh": "上一页"
+    },
+    "jumpToLabel": {
+      "en": "Jump to",
+      "de": "Zur Seite",
+      "zh": "跳转到"
+    }
+  }
+}

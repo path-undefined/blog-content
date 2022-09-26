@@ -1,14 +1,22 @@
 {
   "languages": {
-    "fallbackOrder": [ "en", "zh" ],
+    "fallbackOrder": [
+      "en",
+      "de",
+      "zh"
+    ],
     "options": [
       {
-          "code": "en",
-          "label": "English"
+        "code": "en",
+        "label": "English"
       },
       {
-          "code": "zh",
-          "label": "中文"
+        "code": "de",
+        "label": "Deutsch"
+      },
+      {
+        "code": "zh",
+        "label": "中文"
       }
     ]
   },
@@ -16,9 +24,9 @@
     {
       "name": "articles",
       "label": {
-          "en": "Articles",
-          "de": "Beiträge",
-          "zh": "博文列表"
+        "en": "Articles",
+        "de": "Beiträge",
+        "zh": "博文列表"
       },
       "pageConfigPath": "/pages/articles.json"
     },
@@ -29,27 +37,31 @@
     {
       "name": "destinations",
       "label": {
-          "en": "Destinations",
-          "de": "Reiseziele",
-          "zh": "旅行目的地"
+        "en": "Destinations",
+        "de": "Reiseziele",
+        "zh": "旅行目的地"
       },
       "pageConfigPath": "/pages/destinations.json"
     },
     {
       "name": "comics",
       "label": {
-          "en": "Comics",
-          "de": "Comics",
-          "zh": "漫画"
+        "en": "Comics",
+        "de": "Comics",
+        "zh": "漫画"
       },
       "pageConfigPath": "/pages/comics.json"
     },
     {
+      "name": "comic-reader",
+      "pageConfigPath": "/pages/comic-reader.json"
+    },
+    {
       "name": "about",
       "label": {
-          "en": "About",
-          "de": "Über",
-          "zh": "关于"
+        "en": "About",
+        "de": "Über",
+        "zh": "关于"
       },
       "pageConfigPath": "/pages/about.json"
     }

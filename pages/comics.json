@@ -1,15 +1,22 @@
 {
-  "type": "ComicsPage",
+  "type": "ListPage",
   "i18n": {
-    "title": {
+    "pageTitle": {
       "en": "Comics",
       "de": "Comics",
       "zh": "漫画"
     },
-    "message": {
-      "en": "This page is still under construction.",
-      "de": "Diese Seite befindet sich noch im Aufbau.",
-      "zh": "这个页面尚未搭建完成。"
+    "readMoreLabel": {
+      "en": "start reading",
+      "de": "Lesen anfangen",
+      "zh": "开始阅读"
+    },
+    "loadMoreLabel": {
+      "en": "load more",
+      "de": "mehr anzeigen",
+      "zh": "加载更多"
     }
-  }
+  },
+  "itemsPerPage": 5,
+  "listConfigPath": "/comics/list-001.json"
 }
