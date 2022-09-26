@@ -5,6 +5,11 @@
       "en": "Show on map",
       "de": "Auf Karte anzeigen",
       "zh": "在地图上显示"
+    },
+    "backToListLabel": {
+      "en": "Back to Articles",
+      "de": "Zurück nach Beiträge",
+      "zh": "回到博文列表"
     }
   }
 }
