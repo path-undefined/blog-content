@@ -1,5 +1,5 @@
 {
-  "articles": [
+  "items": [
     {
       "title": {
         "en": "New Radio and Interior Trims of BMW 316ti Compact",
@@ -11,7 +11,8 @@
         "en": "I've newly painted the interior trim of the car, changed the head unit and the speaker of the audio system. The only thing left is to repair some mount points on the back side of the door panel. Now the car looks much better than at the time when I bought it, which makes me very happy. What should I do in the next step? Let's see!",
         "zh": "我给车子里的内饰饰条重新喷了漆，换掉了音响头，还换了扬声器。现在就只剩下门板背后的一些固定点还需要修理。车子现在看上去比我刚刚买它的时候还要新了，这让我很是高兴。下一步我会给车子做哪些改动呢？走一步瞧一步吧！"
       },
-      "articleConfigPath": "/articles/article-2022-09-11.json"
+      "itemPageName": "article",
+      "itemConfigPath": "/articles/article-2022-09-11.json"
     }
   ]
 }

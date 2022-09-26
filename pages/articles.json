@@ -1,6 +1,5 @@
 {
-  "type": "ArticlesPage",
-  "articlesPerPage": 5,
+  "type": "ListPage",
   "i18n": {
     "pageTitle": {
       "en": "Articles",
@@ -18,5 +17,6 @@
       "zh": "加载更多"
     }
   },
-  "articlesConfigPath": "/articles/list-001.json"
+  "itemsPerPage": 5,
+  "listConfigPath": "/articles/list-001.json"
 }
