@@ -17,41 +17,151 @@
   },
   "blocks": [
     {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I have a BMW 316ti Compact, which is purchased one year after I have got the driving license, and mainly used for commuting at that time. To be very honest, after I had bought this car, I regretted it. Not only because this model has a lot of design problems, but also it was messed up by the pre-owner, thus it doesn't worth the price at all. Theoretically I could sell it as-is. However, since it was my first owned car in my life, it is an emotional piece. I hated it but also loved it. Thus it is hard for me to simply sell it. But then I thought, \"why not just use this car as a platform to learn the renovation and repairing of the car?\" Well, yes, at the end, I decided to start a project, to renovate the car.",
+        "zh": "我有一辆BMW 316ti Compact，是我在拿到驾照之后一年的时候买的，当时主要是用来通勤。说实话，我当时买了这辆车之后就后悔了。不仅是因为这个车子的型号本身就有不少设计上的硬伤，而且前车主还乱搞一气，把车子改得乱七八糟的，所以其实它根本就不值我付的那个价钱。虽然理论上我可以原样把这辆车卖掉，但是它毕竟是我人生中第一辆车，我总觉得我跟它有一种情感上的羁绊，我是对它又爱又恨的。这样一来要直接把它卖掉又非常舍不得，不过后来我想，为什么不干脆把它当作一辆练习翻修和修理汽车的平台呢？也是，最后，我决定把翻修这辆车子当作一项工程来做。"
+      }
+    },
+    {
       "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-new-interior.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
+      "url": "/images/2022-09-11--bmw-316ti-compact.jpg",
       "description": {
-        "en": "Newly painted interior trim",
-        "zh": "新刷了油漆的内饰饰条"
+        "en": "BMW 316ti Compact, parking in front of my previous appartment",
+        "zh": "BMW 316ti Compact，停在我的旧家门前"
       }
     },
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "Some models of BMW 316ti Compact have the interior trim painted with \"soft-touch\" paint, which has a soft and flexible surface. While touching it, it just feels like touching a thin layer of smooth leather. However, this kind of paint will become a big problem after decades, because the aged paint won't be flexible anymore, but become sticky, just like a piece of clay. The pre-owner of this car seemed to be annoyed by a car full of clay, so he attached some kind of textile onto the interior trims, so that the ugly part could be covered. \"Out of sight, out of mind\". However, several years later, the previous big problem became a bigger one. The textile faded into a brighter color in the sunshine, which made it look old and dirty.",
-        "zh": "某些型号的BMW 316ti Compact里面的内饰饰条上刷了一种叫做“soft-touch”的漆，这种漆的表面是柔软有弹性的，所以手摸上去的时候会有一种像是在摸细细的皮革一样的感觉。不过时间久了，这种漆就成了个大问题。老化的漆会变得失去弹性，还会变得黏黏糊糊的，就像是橡皮泥一样。我的这辆车的前车主估计是嫌满车的橡皮泥非常难受，所以在老化的漆上面贴了一种像是某种绒的纺织物一样的贴条，挡住那些老化的漆，图一个“眼不见心为净”。没想到又过了几年之后，原来的大问题变成了更大的问题。因为绒布上面的染料经过阳光暴晒之后开始褪色，显得发白，这让整辆车里面看起来脏兮兮的。"
+        "en": "One thing that the pre-owner had done which made me very frustrated was that he modified the audio system of the car. Yeah, I can understand, some people just want to share, well, the ultra-bass part of their favourite music on the street with other drivers. I told the pre-owner before the handover of the car, please please please remove the subwoofer in the trunk, and he did so, but had also managed to break the main speaker behind the door panel, and left a head unit of the audio system in the car which doesn't match the other interior parts at all. My favourite music genre is Jazz and some ambient, minimalist electronic music. Sound quality is not my main concern, but I do need bluetooth, so that I could play music with my smartphone while driving. Besides, I liked the original style of the interior of this car. So I decided to redo the audio system of the car completely, by restoring it to its original status, and adding a bluetooth module onto it.",
+        "zh": "之前车主干的一件让我觉得非常恼火的事情是他改了车子的音响。可以理解，有些人就是喜欢在大马路上跟大家分享自己喜欢的音乐……的重低音部分。在交车之前我特意跟原车主说了我不要后备箱里装的那套低音炮，结果他是把低音炮给卸掉了，也把侧门板后面的主扬声器给弄坏了，而且还在车里留了一个跟其他部分根本不配套的音响头。我听的音乐大多数都是爵士，或者是一些非常ambient、非常minimalist的电子乐。音质对我来说不是大问题，但是我需要蓝牙，这样我就可以用手机在车里放音乐听。除此之外，我也很喜欢这辆车本来的内饰设计风格。所以我决定给整辆车的音响系统来个大修复，恢复到最最原汁原味的状态，然后再加上蓝牙模块。"
       }
     },
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "Some time ago, I removed all those textile pieces from the interior trims with the sticky stuff left on them and the rest of the \"soft-touch\" paint, and then the plastic trims showed their original black color. After letting it be for a while, I found that the black trims on black interior made the car a little bit boring. Since I was going to repair the audio system of the car anyway, and I had to remove those trims. Why not just take the chance to repaint those trims?",
-        "zh": "前一段时间的时候，我把车上所有的纺织物贴条都撕了下来，清掉了残余的胶和“soft-touch”漆，于是内饰饰条就露出了塑料原本的黑色。就这样开车开了一段时间之后，我突然觉得整辆车的内饰都是黑色的，似乎看起来有点无聊，再加上我本来也想要修理车子的音响，所以正好也要卸掉一部分内饰饰条，于是这就成了一个给内饰饰条换个颜色的大好机会。"
+        "en": "I bought an audio system head unit from ebay, for it is cheap there. It looked like being removed from another scraped car. It has only CD and radio. Later I bought a cheap bluetooth module also on ebay. Everything that I needed was then ready.",
+        "zh": "因为贪图便宜，我去ebay上买了一个相当便宜的原装音响头，看上去是从其他报废的车子上拆下来的。只支持CD和广播功能。后来我又在ebay上买了一个相当便宜的蓝牙转接头。这样一来，需要的物品就采购齐了。"
       }
     },
     {
       "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-painted-interior-trim-1.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
+      "url": "/images/2022-09-11--stock-audio.jpg",
+      "description": {
+        "en": "The head unit of the audio system that I bought might come from a scraped BMW",
+        "zh": "我买的音响头应该是从一辆报废的BMW上拆下来的"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "First, I had to remove the old head unit. While doing so, I was amazed by the pre-owner's attitude of \"out of sight, out of mind\". I'd never thought of that so many cables could be hidden behind that little head unit, adpater after adpaters. I roughly had a look, and then unplugged almost all the unnecessary cables. Those calbes for the old head unit took half of the passenger seat. I thought I had removed everything, thus I started to connect the new head unit. First, the power, and then the antenna. But no matter how hard I try, the antenna plug just refused to be plugged into the socket. I looked it carefully once again, crap... The antenna was adapter on adapter previously. I removed one adapter, and thought it would be OK. Who would thought of that there was another adapter, which was not compatible to the socket on the new head unit at all? The pin in the socket in the new head unit was broken while I was trying.",
+        "zh": "首先我得把原来的音响拆下来。这一拆，我就被前车主“眼不见，心为净”的功力所折服——小小一个音响的后面居然藏着那么多杂乱的线，转接头连着转接头。我大概看了看，把所有我不需要线全都一股脑清了出来，结果那些乱七八糟的线都快摆满半个座位了。我以为乱七八糟的东西全都清出来了，就开始把新的音响往上装。先接电源，接上去之后CD可以正常用。然后接天线，天线的插头怎么插都插不进去。我仔细一看，坏了，原来之前的天线是转接头又接转接头，我拔掉了一个转接头，以为就万事大吉了。没想到还连在上面的转接头跟新的音响头是不配套的，结果折断了音响上天线接口里面的一根针。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-11--cable-mess.jpg",
+      "description": {
+        "en": "Those cables for the old head unit took half of the passenger seat",
+        "zh": "老音响头的线占了半个副驾驶座"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "That pin was the signal pin of the antenna. Without it, the radio function of the head unit would be useless. I was shocked a little bit, thinking, \"it is over, without the radio, the head unit is basically half-scrapped.\" But after another look, I noticed that the cable socket was removable, maybe I could only buy the socket instead of the whole head unit? I grabbed a screw driver and removed it, and tried to find the same thing online, but without any luck. But an idea then suddenly came to my mind. The socket on the adapter is compatible with the antenna cable, and the metal contact points for the antenna cables were still there in the head unit. Maybe I could reuse the socket on the adapter, and solder it onto those metal contact points? Thus I picked up the tools again, and completely dissambled the head unit, soldered the socket to the head unit, and tried it on the car. It worked! Although the signal was not perfect, at least I could use the radio! It is better than nothing.",
+        "zh": "那根针可是天线传输信号进去的针，没了那根针，音响头的收音功能基本上就处于报废状态。我心里咯噔一下，心想这下完了，没了收音功能，这音响头恐怕算是要处于半报废状态了吧。后来我仔细瞧了瞧，这天线的插孔好像可以卸下来，或许我可以只买一个天线的插孔而不用买整个音响头呢？我连忙抄起螺丝刀把插孔卸了下来，然后上网搜了一下，发现根本没有卖这种东西的商家。我灵机一动，心想，既然之前的音响的转接头上的插孔是跟天线配套的，连接天线的金属触点也还在音响头里面。没准我能把转接头上的插孔和金属触点给焊接起来，自己做一个天线的接头呢。于是我拿着工具把音响头大卸八块，把插孔给焊到了音响头上。然后装到车上一试，果然成功了！虽然接收的信号不怎么样，但是至少又能听广播啦！这总比什么广播都听不到要强吧。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-11--audio-antenna.jpg",
+      "description": {
+        "en": "Self-made antenna plug, the one goes into the head unit is the signal cable, the one connected to the case of the head unit is the ground",
+        "zh": "自制的天线接头，一根是信号线，接到了音响头里面，另一根是接地线，直接接到了音响外壳上"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "It was quite smooth to install the bluetooth module. The bluetooth module from BlueMusic was simple, but in good quality. The only problem was the adapter was huge. Thus, it made me struggled for a long time until I tucked the adapter into the space behind the head unit, and pushed the head unit back into place.",
+        "zh": "装蓝牙模块的过程还算顺利，BlueMusic的蓝牙模块看上去虽然简陋，但是质量相当不错。唯一的小缺点就是它的转接头太大了，我费了好大功夫才把转接头塞到了音响头后面的空间里，然后把音响头推回到了原来的位置。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Now the audio system has three modes: radio mode, with an \"FM\" displayed on the LCD; CD mode, with \"TR (track)\" on the screen; and bluetooth, with \"CD\" displayed. The reason why CD represents bluetooth is probably because the bluetooth module makes itself act like a CD player for the head unit, so that the head unit is getting cheated. One should know that at the time when the head unit was produced, not many people had even heard about bluetooth. Who would know after 20 years, there are some people who cheat the audio system by making a bluetooth module look like an external CD player? Now I can finally play music with my smartphone.",
+        "zh": "现在整个音响有三个模式。显示FM的是广播模式，显示TR（track）的是CD模式，显示CD的却是蓝牙模式。之所以蓝牙显示的是CD，我猜是因为蓝牙模块把自己伪装成了一个外接CD机，骗过了原装的音响而已。要知道原装音响生产的那个年代恐怕还没几个人听说过蓝牙呢，谁会想到20多年之后会有人把蓝牙模块当作外接CD机插上去呢？现在我终于能在车里听我手机上保存的podcast和音乐了。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-11--different-audio-modes.jpg",
+      "description": {
+        "en": "Different modes of the audio system",
+        "zh": "音响的不同模式"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Finally got the head unit done, the next step was to repair the speaker. For that reason, I removed the whole door panels, from both sides. While I was doing so, I noticed that there were some mounting points coming off from the door panel. It seemed like that BMW wanted to save money, and had used hot glue to attach those mount points onto the door panel. Since it was mounted onto door panel with hot glue, I would also repair them using the same technique. Only, while repairing it, those door panels had to stay at home. But the problem was the door handles were also on the door panels. Without door panels, there would also be no door handles in my car. Thus, one has to pull a door latch cable to open the door inside the car. And exactly at this time, my colleagues wanted to take a ride. And now everyone knows, who wants to take a ride with me, has to pull a cable to open the door.",
+        "zh": "音响头搞定了之后，接下来需要做的事情就是修理扬声器了。为此我把整个门板都卸了下来，结果我发现在拆门板的时候，门板后面有几个支撑点脱落了。估计是BMW为了省成本，那几个支撑点完全就是用热熔胶粘上去的。既然原来就用热熔胶粘，那我也用热熔胶修好了。不过在修的时候，门板得留在家里。问题是门的把手可在门板上呀，卸了门板，我的车就没有门把手了。现在在我的车子里只能靠用手拉一根金属线来打开门锁开门。偏偏又是在这个时候，我的同事想要来坐我的车。所以现在大家都知道了，坐我的车子是要拽线开门的。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-11--door-latch-cable.jpg",
+      "description": {
+        "en": "This is my temporary \"door handle\"",
+        "zh": "这就是我临时的“门把手”"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Repairing speaker was boring. The cable in the coil must be broken in the old speaker, thus it didn't make any noise. I bought a set of cheap, used speakers, which was probably removed from another scrapped car too, and then mounted it, connected it. It works! Task done!",
+        "zh": "扬声器的修理恐怕是最无聊的一个环节了。原来的扬声器估计是线圈里面的线断掉了，完全发不出任何声音来。所以我在ebay上又买了一套便宜的扬声器，估计也是另一辆报废的车上拆下来的。接上去，正常发声！任务完成啦！"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-11--replaced-speaker.jpg",
+      "description": {
+        "en": "Left and right main speakers have also been replaced, but the door panels haven't been mounted yet",
+        "zh": "左右两边的主扬声器也被换掉了，但是门板还没装上去"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Now the whole audio system of the car is completely fixed. I went for a drive, while switching between the different modes of the audio system, which made me super happy.",
+        "zh": "这下车子的音响系统就算是全修理完了。我开着车出去兜了一圈，一边开车，一边在三种不同的音响模式之间切来切去，开心极了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Some models of BMW 316ti Compact have the interior trim painted with \"soft-touch\" paint, which has a soft and flexible surface. While touching it, it just feels like touching a thin layer of smooth leather. However, this kind of paint will become a big problem after decades, because the aged paint won't be flexible anymore, but become sticky, just like a piece of clay. The pre-owner of this car seemed to be annoyed by a car full of clay, so he attached some kind of textile onto the interior trims, so that the ugly part could be covered. Again, \"out of sight, out of mind\". However, several years later, the previous big problem became a bigger one. The textile faded into a brighter color in the sunshine, which made it look old and dirty.",
+        "zh": "某些型号的BMW 316ti Compact里面的内饰饰条上刷了一种叫做“soft-touch”的漆，这种漆的表面是柔软有弹性的，所以手摸上去的时候会有一种像是在摸细细的皮革一样的感觉。不过时间久了，这种漆就成了个大问题。老化的漆会变得失去弹性，还会变得黏黏糊糊的，就像是橡皮泥一样。我的这辆车的前车主估计是嫌满车的橡皮泥非常难受，所以在老化的漆上面贴了一种像是某种绒的纺织物一样的贴条，挡住那些老化的漆——又是图一个“眼不见心为净”。没想到又过了几年之后，原来的大问题变成了更大的问题。因为绒布上面的染料经过阳光暴晒之后开始褪色，显得发白，这让整辆车的内饰看起来又旧又脏。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-11--painted-interior-trim-1.jpg",
       "description": {
         "en": "The right most interior trim piece",
         "zh": "最右边的内饰饰条"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Some time ago, I removed all those textile pieces from the interior trims with the sticky stuff left on them, along with the rest of the \"soft-touch\" paint, and then the plastic trims showed their original black color. After letting it be like that for a while, I found the black trims on black interior made the car a little bit boring. To repair the audio system of the car, I had to remove those trims anyway. Why not just take the chance to repaint those trims?",
+        "zh": "前一段时间，我把车上所有的纺织物贴条都撕了下来，清掉了残余的胶和“soft-touch”漆，于是内饰饰条就露出了塑料原本的黑色。就这样开车开了一段时间之后，我突然觉得整辆车的内饰都是黑色的，似乎看起来有点无聊，再加上我本来也要修理车子的音响，所以正好也要卸掉一部分内饰饰条，于是这就成了一个给内饰饰条换个颜色的大好机会。"
       }
     },
     {
@@ -62,22 +172,18 @@
       }
     },
     {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-11--painted-interior-trim-3.jpg",
+      "description": {
+        "en": "The left most interior trim piece",
+        "zh": "最左边的内饰饰条"
+      }
+    },
+    {
       "type": "ParagraphBlock",
       "content": {
         "en": "Actually, it was a dangerous decision to buy those spray cans, because I've never had any satisfying result with a spray can. Either the spray can is too close to the object, making all the paint focused at one spot, and soon after, the paint will start dripping; or the spray can is too far away, and the paint is not going onto the object at all, but spreads homogeneously in the whole room, and paints everything in the room, including myself, in the color of the spray can. Out of this reason, I was very nervous when I started the painting process.",
         "zh": "其实买喷罐是有点冒险的决定。因为说实话我之前从来没有用喷罐成功地给一个东西上油漆上到我满意的状态过。要么就是喷罐离物体太近，然后所有的颜料就会集中到一个点上面去，过不久多余的颜料就会开始滴下来。要么就是喷罐离物体太远，油漆飘得满屋子都是，把所有周围的物品全都染上喷罐喷出来的颜色。所以这次开始喷油漆的时候，我还是相当紧张的。"
-      }
-    },
-    {
-      "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-painted-interior-trim-3.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
-      "description": {
-        "en": "The left most interior trim piece",
-        "zh": "最左边的内饰饰条"
       }
     },
     {
@@ -96,11 +202,7 @@
     },
     {
       "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-painted-interior-trim-2.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
+      "url": "/images/2022-09-11--painted-interior-trim-2.jpg",
       "description": {
         "en": "Interior trim piece around the gear shift stick",
         "zh": "换挡杆周围的内饰饰条"
@@ -128,6 +230,14 @@
       }
     },
     {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-11--new-interior.jpg",
+      "description": {
+        "en": "Newly painted interior trim",
+        "zh": "新喷了油漆的内饰饰条"
+      }
+    },
+    {
       "type": "ParagraphBlock",
       "content": {
         "en": "Nothing is more satisfying than the sense of accomplishment! Watching those interior trims on the ground, in bright white and green, close to perfect, \"they are so lovely\", so I think. Suddenly I wanted to lick them, somehow. However, I have to disappoint you here. No, I didn't lick it, I inhibited those weird impulses",
@@ -135,145 +245,10 @@
       }
     },
     {
-      "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-stock-audio.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
-      "description": {
-        "en": "The stock head unit of the audio system might be from a scraped BMW",
-        "zh": "原装的音响头应该是从一辆报废的BMW上拆下来的"
-      }
-    },
-    {
       "type": "ParagraphBlock",
       "content": {
-        "en": "One thing that the pre-owner had done which made me very frustrated was that he modified the audio system of the car. Yeah, I can understand, some people just want to share, well, the ultra-bass part of their favourite music on the street with other drivers. I told the pre-owner before the handover of the car, please please please remove the subwoofer in the trunk, and he did so, but had also managed to break the main speaker behind the door panel, and left a head unit of the audio system in the car which doesn't match the other interior parts at all. My favourite music genre is Jazz and some ambient, minimalist electronic music. Sound quality is not my main concern, but I do need bluetooth, so that I could play music with my smartphone while driving. Besides, I liked the original design of the interior of this car. So I decided to redo the audio system of the car completely, by restoring it to its original status, and adding a bluetooth module onto it.",
-        "zh": "之前车主干的另外一件让我觉得非常恼火的事情是他改了车子的音响。可以理解，有些人就是喜欢在大马路上跟大家分享自己喜欢的音乐——的重低音部分。在交车之前我特意跟原车主说了我不要后备箱里装的那套低音炮，结果他是把低音炮给卸掉了，也把侧门板后面的主扬声器给弄坏了，而且还在车里留了一个跟其他部分根本不配套的音响头。我听的音乐大多数都是爵士，或者是一些非常ambient、非常minimalist的电子乐。音质对我来说不是大问题，但是我需要蓝牙，这样我就可以用手机在车里放音乐听。除此之外，我又很喜欢这辆车本来的内饰设计。所以我决定给整辆车的音响系统来个大修复，恢复到最最原汁原味的状态，然后再加上蓝牙模块。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "I bought an audio system head unit from ebay, for it is cheap there. It looked like being removed from another scraped car. It has only CD and radio. Later I bought a cheap bluetooth module also on ebay. Everything that I needed was then ready.",
-        "zh": "因为贪图便宜，我去ebay上买了一个相当便宜的原装音响头，看上去是从其他报废的车子上拆下来的。只支持CD和广播功能。后来我又在ebay上买了一个相当便宜的蓝牙转接头。这样一来，需要的物品就采购齐了。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "First, I had to remove the old head unit. While doing so, I was amazed by the spirit of \"out of sight, out of mind\" once again. I'd never thought about that so many cables could be hidden behind that little head unit, adpater after adpaters. I roughly had a look, and then unplugged almost all the unnecessary cables. Those calbes for the old head unit took half of the passenger seat. I thought I had removed everything, thus I started to connect the new head unit. First, the power, and then the antenna. But no matter how hard I try, the antenna plug just refused to be plugged into the socket. I looked it carefully once again, crap... The antenna was adapter on adapter previously. I removed one adapter, and thought it would be OK. Who would thought of that there was another adapter, which was not compatible to the socket on the new head unit at all? The pin in the socket in the new head unit was broken while I was trying.",
-        "zh": "首先我得把原来的音响拆下来。这一拆，我就再一次被前车主“眼不见心为净”的功力所折服——小小一个音响的后面居然藏着那么多杂乱的线，转接头连着转接头。我大概看了看，把所有我不需要线全都一股脑清了出来，结果那些乱七八糟的线都快摆满半个座位了。我以为乱七八糟的东西全都清出来了，就开始把新的音响往上装。先接电源，接上去之后CD可以正常用。然后接天线，天线的插头怎么插都插不进去。我仔细一看，坏了，原来之前的天线是转接头又接转接头，我拔掉了一个转接头，以为就万事大吉了。没想到还连在上面的转接头跟新的音响头是不配套的，结果折断了音响上天线接口里面的一根针。"
-      }
-    },
-    {
-      "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-cable-mess.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
-      "description": {
-        "en": "Those cables for the old head unit took half of the passenger seat",
-        "zh": "老音响头的线占了半个副驾驶座"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "That pin was the signal pin of the antenna. Without it, the radio function of the head unit would be useless. I was shocked a little bit, thinking, \"it is over, the head unit is scrapped.\" But after another look, I noticed that the socket was removable, maybe I could only by the socket instead of the whole head unit? I grabbed a screw driver and removed it, and tried to find the same thing online, but without any luck. But an idea then came to my mind. The socket on the adapter is compatible to the plug in the car, and there were the metal contact points for the broken socket. Maybe I could reuse the socket on the adapter, connect it to those metal contact points? Thus I picked up the tools again, and completely dissambled the head unit, soldered the socket from the adapter to the head unit, and tried it on the car. It worked! Although the signal was not perfect, at least I could use the radio from then on!",
-        "zh": "那根针可是天线传输信号进去的针，没了那根针，音响头的收音功能基本上就处于报废状态。我心里咯噔一下，心想这下完了，这音响头恐怕要报废了吧。后来仔细看了看，这天线的插孔好像可以卸下来，或许我可以只买一个天线的插孔？我连忙抄起螺丝刀把插孔卸了下来，然后上网搜了一下，发现根本没有卖这种东西的商家。我灵机一动，心想之前的音响的转接头的插孔是跟车上的插头配套的，卸下来了音响头上的插孔之后，我又依稀可以看见里面连接插孔的金属触点。没准我能把转接头上的插孔和金属触点用导线连起来，自己做一个天线的接头呢。于是我拿着工具把音响头大卸八块，利用之前音响上的转接头和导线做了一个天线接头出来。然后装到车上一试，果然成功了！虽然接收的信号不怎么样，但是至少又能听广播啦！"
-      }
-    },
-    {
-      "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-audio-antenna.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
-      "description": {
-        "en": "Self-made antenna plug, the one goes into the head unit is the signal cable, the one connected to the case of the head unit is the ground",
-        "zh": "自制的天线接头，一根是信号线，接到了音响头里面，另一根是接地线，直接接到了音响外壳上"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "It was quite smooth to install the bluetooth module. The bluetooth module from BlueMusic was simple, but in good quality. The only problem was the adapter was huge. Thus, it made me struggled for a long time until I tucked the adapter into the space behind the head unit, and pushed the head unit back into place.",
-        "zh": "装蓝牙模块的过程还算顺利，BlueMusic的蓝牙模块看上去虽然简陋，但是质量相当不错。唯一的小缺点就是它的转接头太大了，我费了好大功夫才把转接头塞到了音响头后面的空间里，把它推回到了原来的位置。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "Now the audio system has three modes: radio mode, with an \"FM\" displayed on the LCD; CD mode, with \"TR (track)\" on the screen; and bluetooth, with \"CD\" displayed. The reason why CD represents bluetooth is probably because the bluetooth module makes itself act like a CD player for the head unit, so that the head unit is getting cheated. One should know that at the time when the head unit was produced, not many people had even heard about bluetooth. Who would know after 20 years, there are some people who cheat the audio system by making a bluetooth module look like an external CD player? Now I can finally play music with my smartphone.",
-        "zh": "现在整个音响有三个模式。显示FM的是广播模式，显示TR（track）的是CD模式，显示CD的却是蓝牙模式。之所以蓝牙显示的是CD，我猜是因为蓝牙模块把自己伪装成了一个外接CD机，骗过了原装的音响而已。要知道原装音响生产的那个年代恐怕还没几个人听说过蓝牙呢，谁会想到20多年之后会有人把蓝牙模块当作外接CD机插上去呢？现在我终于能在车里听我手机上保存的podcast和音乐了。"
-      }
-    },
-    {
-      "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-different-audio-modes.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
-      "description": {
-        "en": "Different modes of the audio system",
-        "zh": "音响的不同模式"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "Finally got the head unit done, the next step was to repair the speaker. For that reason, I removed the whole door panels, from both sides. While I was doing so, I noticed that there were some mounting points coming off from the door panel. It seemed like that BMW wanted to save money, and had used hot glue to attach those mount points onto the door panel. Since it was mounted onto door panel with hot glue, I would also repair them using the same technique. Only, while repairing it, those door panels had to stay at home. But the problem was the door handles were also on the door panels. Without door panels, there would also be no door handles in my car. Thus, one has to pull a door latch cable to open the door inside the car. And exactly at this time, my colleagues wanted to take a ride. And now everyone knows, who wants to take a ride with me, has to pull a cable to open the door.",
-        "zh": "音响头搞定了之后，接下来需要做的事情就是修理扬声器了。为此我把整个门板都卸了下来，结果我发现在拆门板的时候，门板后面有几个支撑点脱落了。估计是BMW为了省成本，那几个支撑点完全就是用热熔胶粘上去的。既然原来就用热熔胶粘，那我也用热熔胶修好了。不过在修的时候，门板得留在家里。问题是门的把手可在门板上呀，卸了门板，我的车就没有门把手了。现在在我的车子里只能靠用手拉一根金属线来打开门锁开门。偏偏又是在这个时候，我的同事想要来坐我的车。所以现在大家都知道了，坐我的车子是要拽线开门的。"
-      }
-    },
-    {
-      "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-door-latch-cable.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
-      "description": {
-        "en": "This is my temporary \"door handle\"",
-        "zh": "这就是我临时的“门把手”"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "Repairing speaker was boring. The cable in the coil must be broken in the old speaker, thus it didn't make any noise. I bought a set of cheap, used speakers, which was probably removed from another scrapped car too, and then mounted it, connected it. It works! Task done!",
-        "zh": "扬声器的修理恐怕是最无聊的一个环节了。原来的扬声器估计是线圈里面的线断掉了，完全发不出任何声音来。所以我在ebay上又买了一套便宜的扬声器，估计也是另一辆报废的车上拆下来的。接上去，正常发声！任务完成啦！"
-      }
-    },
-    {
-      "type": "ImageBlock",
-      "url": "/images/2022-09-11--bmw-316ti-replaced-speaker.jpg",
-      "size": {
-        "width": 2048,
-        "height": 1368
-      },
-      "description": {
-        "en": "Left and right main speakers have also been replaced, but the door panels haven't been mounted yet",
-        "zh": "左右两边的主扬声器也被换掉了，但是门板还没装上去"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "Now the whole audio system of the car is completely fixed. I went for a drive, while switching between the different modes of the audio system, which made me super happy.",
-        "zh": "这下车子的音响系统就算是全修理完了。我开着车出去兜了一圈，一边开车，一边在三种不同的音响模式之间切来切去，开心极了。"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "This car is the first car in my life. After I had bought it, I regretted it. Not only because this model has a lot of design problems, but also it was abused by the pre-owner quite a lot, thus it doesn't worth the price at all. But now, since I've repaired its audio system, painted the interior trims, replaced quite a few aged exterior parts, it looks even newer than the time when I bought it, which makes me start to love it. Now I'm starting to consider how I could update it even more. Maybe a new suspension? Or a new set of breaks? Or maybe even update the engine? Who knows, let's see!",
-        "zh": "这辆车是我人生中的第一辆车，当时刚刚买完了这辆车之后，我马上就后悔了。因为这辆车不但有很多设计上的硬伤，车里面还被前车主糟蹋得不像样子，其实根本就不值那个价钱。但是现在我修了它的音响，翻新了它的内饰，车身外面又换掉了不少老化的零件，现在看起来比刚刚买来的时候还要新了。这让我渐渐地喜欢起这辆车子来。下一步只要把门板背后的固定点修好，然后把门板装上去，这次的翻新工作就大功告成啦。我现在已经开始考虑要不要做一些其他部件的升级了，或许我可以换一套悬挂，或者是换一套刹车，没准还能升级一下发动机呢。走一步看一步吧！"
+        "en": "Now I won't regret buying this car anymore. Since I've repaired its audio system, painted the interior trims, replaced quite a few aged exterior parts, it looks even newer than the time when I bought it, which makes me love it even more. Now I'm starting to consider what else I could do for it. Maybe a new suspension? Or a new set of breaks? Or maybe even update the engine? Who knows, let's see!",
+        "zh": "现在我不后悔买这辆车了。我修好了它的音响，翻新了它的内饰，车身外部又换掉了不少老化的零件。现在这辆车看起来比刚刚买来的时候还要新了，这让我渐渐地变得更喜欢它了。下一步只要把门板背后的固定点修好，然后把门板装上去，这次的翻新工作就大功告成啦。我现在已经开始考虑要不要为它再做点别的什么事情了。比如说我可以换一套悬挂，或者是换一套刹车，没准还能升级一下发动机呢。走一步看一步吧！"
       }
     }
   ]

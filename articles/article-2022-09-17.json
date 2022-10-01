@@ -1,0 +1,155 @@
+{
+  "title": {
+    "en": "BMW 316ti Compact Project Reaches a Milestone",
+    "zh": "BMW 316ti Compact工程暂时告一段落"
+  },
+  "time": {
+    "date": "2022-09-17",
+    "time": "17:51:00",
+    "timeZone": "Europe/Berlin"
+  },
+  "location": {
+    "name": {
+      "en": "Home",
+      "de": "Zuhause",
+      "zh": "家中"
+    }
+  },
+  "blocks": [
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "August 20th, 2022, it was the day when I booked the very first part for the BMW 316ti Project. Now it is September 17th. After almost a whole month of lazy work, the project has finally reached a milestone now.",
+        "zh": "2022年8月20日，这个是我在网上订了用来做BMW 316ti Compact的工程的第一个零件的时间。现在是9月17日，我前前后后懒懒散散地搞了一个月，BMW 316ti Compact的翻修工程总算是告一段落了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Continuing from the point where I have stopped last time, I attached the mount points to the back of the door panel with the hot glue. However, this didn't work very well. The hot glue used by BMW was in a better quality (well, althought they were trying to save money, they still kept a quality standard), at least better than mine, since mine was supposed to be used for hobby or DIY purposes. With some brutal force, those hot glued mount points will come off again.",
+        "zh": "接着上一次的的工程进度，我用热熔胶把门板后面掉下来的塑料支架又给粘回到了门板上。但是其实用热熔胶粘塑料支架的效果并不是特别的好，之前BMW看来是用了质量更好的热熔胶（虽然他们是要省钱，不过他们还是保持了一定的质量标准的），跟我的这种DIY用的小打小闹的热熔胶完全不是一个档次的。只要用力掰，那些用热熔胶粘上去的塑料支架还是会掉下来。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--finished-interior-1.jpg",
+      "description": {
+        "en": "The door panels with newly painted door handle trims are mounted",
+        "zh": "上了漆的门把手饰条安到了门板上，门板也安装到车门上面去了"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Some of the mount points came off while I was trying to put the door panel on. Despite the lose mount points, the door panel were still tightly mounted onto the door. With the help of the screws, the door panel won't move at all. It is not like that before the door panel being unmounted, with little pull with the fingers, a big gap would show up between the door panel and the glass. That means, even if the mount points were glued on with some cheap hot glue, it is still much better than before. Sometimes I have to learn the attitude of \"out of sight, out of mind\" too. It is never the goal to make everything perfect, at least for me for now, but to finish the work. As long as I keep the car, and I'm willing to put time in it, I will always get the chance to make it better. However, if I force myself to do everything perfectly, then I will never finish this project.",
+        "zh": "安装门板的时候，有几个支架就已经因为用力过猛而松脱了。不过就算是支架松脱了，整个门板的固定效果还是非常理想的——拧上螺丝钉了之后，整个门板定在车门上纹丝不动。不像在把门板拆下来之前，只要用手指稍微用力往外掰，门板和窗玻璃之间就会露出一条相当大的缝隙。所以这样一来，哪怕是简单地用热熔胶粘一下，其实效果也已经比之前要好很多了。我想偶尔我也得学习一下前车主那种“眼不见为净”的心态。至少对于现在的我来说，做到完美并不是最重要的，而完成工作才是。只要车子在，而且我愿意不断地投入时间进去，就总有机会能够让我做到更好。但是，如果要求每一个细节都要求完美的话，恐怕我是永远不会完成这个工程了。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--finished-interior-2.jpg",
+      "description": {
+        "en": "New trim on the door handle",
+        "zh": "门把手上面新的饰条"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Other than the interior, I've also renovated several small body parts, for example, the logos and the mirror. The old logos were completely worn, the only things left on the emblems were the silver background and the black circle. And the plastic case of the mirror had a long crack on its back. I'm not a BMW fan or something, and the crack on the back of the plastic case won't affect any functionalities of the car too. But after those small problems being fixed, the car looks much newer now. Each time I reach my car and open the door, look at the bright shiny new logos and the smooth back side of the plastic case, I'll be in a good mood for quite a while.",
+        "zh": "除了内饰之外，这次的我也翻新了不少车身上的小部件，比如说车标和反光镜。之前的车标老化褪色，就只剩下一个银色的底盒黑色的圈。反光镜塑料座的背后也有一条长长的裂痕。虽然我也不是什么BMW的忠实的粉丝，反光镜塑料座背后的裂缝然对车子的功能也没有什么影响。但是这些小细节修复了之后，车子看上去就变新了好多。每次出门去开车的时候，看到颜色鲜艳的新LOGO，还有那光滑的反光镜塑料座，我的心情就会变得非常好。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--old-bmw-logo.jpg",
+      "description": {
+        "en": "The old BMW logo, with blue and white paint being completely worn, only the silver background and the black circle are left there",
+        "zh": "老的BMW车标，蓝色和白色都磨光了，只剩下中间银灰的底和周围的一个黑色的圈"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--new-bmw-logo-front.jpg",
+      "description": {
+        "en": "The new BMW logo in the front",
+        "zh": "新的前车标"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--new-bmw-logo-rear.jpg",
+      "description": {
+        "en": "The new BMW logo in the rear",
+        "zh": "新的后车标"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "That's it for the milestone. I only wanted to replace the audio system in the ",
+        "zh": "这样一来，我的工程就算是告一段落了。这个工程本来只是想要换掉车子里的音响的，没想到我趁着换音响带来的那个惯性，要么就翻修了、要么就换掉了车子上的好多其他部件。比如说内饰饰条、反光镜，当然还有车标。不过这个工程还远远没有完成。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I have had a briefly thought about how I should proceed with this project in the next step. At the end, I've decided to replace the rear bumper, replace the front turning signal and remove the rust on the fender.",
+        "zh": "完成了工程之后，我大概思考了一下下一步我会怎么继续这个工程。最后我决定换掉后保险杠，换掉车子前面的转弯灯，然后再给前翼子板除一下锈。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--rear-bumper.jpg",
+      "description": {
+        "en": "The rear bumper has quite a few scratches and bumps on it",
+        "zh": "后保险杠上有不少刮擦和磕碰的痕迹"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Since this is my first car in my life, those small scratches and bumps are basically not avoidable because of my awkward driving at that time. Without the rear parking distance sensor, the rear bumper natually becomes the victim of my bad parking skill. Now I'm much better at driving, and I've never scratched the rear bumper again, but those scratches on the rear bumper look nasty. I had actually already bought a cheap rear bumper for the replacement, and I actually wanted to unmount the rear bumper too, but who would expect that the whole rear bumper had already rusted on the chasis and cannot been removed at all. I stripped two screws, and still couldn't turn the screws a little bit. I might have to get some help from the workshop in the next town. There I could probably heat the screw holes up to expand it, so that turning the screw would be much easier. Once the old bumper is off, then I can start with mounting the new one.",
+        "zh": "因为这辆车子是我人生中的第一辆车，难免在刚学会开车之后因为手脚笨，会有一些小磕碰。而没有倒车雷达的后保险杠自然就成了我烂车技的牺牲品。现在我开车的技术好些了，车子的后保险杠也就没再碰过，但是后保险杠上的一些碰撞的痕迹看着总还是有些恼人的。我其实已经买到了一个便宜的用来替换的保险杠了，本想要把后保险杠卸下来的，可是谁想到它早就已经完全锈死在车的底盘上了。无论我怎么试都没能把后保险杠弄下来，反而还把螺丝钉给弄滑丝了。或许我得去隔壁的镇上找修车厂的人，在那边或许我可以给螺丝钉的孔加热，这样一来通过热胀冷缩可能就可以把螺丝钉卸下来，然后我自己就可以再用新的螺丝钉把保险杠给固定上去。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--water-in-the-light.jpg",
+      "description": {
+        "en": "There is water in the front right turn signal",
+        "zh": "右前转向灯里面积水了"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--rust.jpg",
+      "description": {
+        "en": "Rust in the right fender",
+        "zh": "右边翼子板上的锈迹"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--rust-bubbles.jpg",
+      "description": {
+        "en": "Rust bubble on the left fender",
+        "zh": "左边翼子板上的锈泡"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "The problems in the front of the car are not because of my awkward driving skill, but the age of the car. First, the front right turn signal has water in it. I'm afraid that the sealing of the turning signal is broken. But even though it is sunny, the water in it is not coming out. If it stayed like this, after a while, I'd be able to keep little fishes in it. Besides, the rust is also a big problem. Most of the car starts to rust in the fender, at the spot above the wheel. My car is not an exception. There are rust bubbles on both sides of fenders. On one side they are even turning into chips, which is not good. I'm not sure yet weather I should buy those cheap fenders stripped from other cars, or try to renovate the tow that I have. But they are not my main concern for now...",
+        "zh": "车头的问题倒不是因为我的烂车技，而是因为车子的年龄大了。首先，车头右边的转向灯一到下雨天就会积水，恐怕是头灯的密封漏了的缘故。不过问题是天晴了的时候，里面的积水也不流出来。感觉现在里面都快可以养小鱼了。除此之外，生锈的车身也是个大问题。大多数车子都是从翼子板轮子上方开始生锈的，我的这辆车也不例外。我的这辆车两边的翼子板上都有锈泡了，一边的锈泡已经慢慢变成了疏松的“威化饼干”了。我还不太确定到时候修这两块翼子板的时候是会直接买那种从别的车子上拆下来的，还是把这两块旧的给翻修一下。不过这些都不是现在要考虑的问题了……"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "At the moment, my main concern should be driving it more, and enjoying the feeling of reaching the milestone of the project.",
+        "zh": "现在最应该做的事情莫过于多开着这辆车出去转转，享受一下这个工程阶段性的成果啦！"
+      }
+    }
+  ]
+}

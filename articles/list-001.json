@@ -2,14 +2,32 @@
   "items": [
     {
       "title": {
+        "en": "BMW 316ti Compact Project Reaches a Milestone",
+        "zh": "BMW 316ti Compact工程暂时告一段落"
+      },
+      "date": "2022-09-17",
+      "thumbnailImageUrl": "/images/2022-09-17--finished-interior-2.jpg",
+      "excerpt": {
+        "en": "After almost a whole month of lazy work, the BMW 316ti Project has reached a milestone",
+        "zh": "BMW 316ti Compact工程懒懒散散地搞了有将近一个月，现在总算是告一段落了。"
+      },
+      "itemUrl": {
+        "pageName": "article",
+        "queries": {
+          "articleConfigPath": "/articles/article-2022-09-17.json"
+        }
+      }
+    },
+    {
+      "title": {
         "en": "New Radio and Interior Trims of BMW 316ti Compact",
         "zh": "BMW 316ti Compact的新音响和内饰饰条"
       },
       "date": "2022-09-11",
-      "thumbnailImageUrl": "/images/2022-09-11--bmw-316ti-painted-interior-trim-2.jpg",
+      "thumbnailImageUrl": "/images/2022-09-11--painted-interior-trim-2.jpg",
       "excerpt": {
-        "en": "I've newly painted the interior trim of the car, changed the head unit and the speaker of the audio system. The only thing left is to repair some mount points on the back side of the door panel. Now the car looks much better than at the time when I bought it, which makes me very happy. What should I do in the next step? Let's see!",
-        "zh": "我给车子里的内饰饰条重新喷了漆，换掉了音响头，还换了扬声器。现在就只剩下门板背后的一些固定点还需要修理。车子现在看上去比我刚刚买它的时候还要新了，这让我很是高兴。下一步我会给车子做哪些改动呢？走一步瞧一步吧！"
+        "en": "I've changed the head unit and the speaker of the audio system, and also painted the interior trim of the car. The only thing left is to repair some mount points on the back side of the door panel. Now the car looks much better than at the time when I bought it, which makes me very happy. What should I do in the next step? Let's see!",
+        "zh": "我给车子换掉了音响头、换了扬声器，还把车子里的内饰饰条重新喷了漆。现在就只剩下门板背后的一些固定点还需要修理。车子现在看上去比我刚刚买它的时候还要新了，这让我很是高兴。下一步我会给车子做哪些改动呢？走一步瞧一步吧！"
       },
       "itemUrl": {
         "pageName": "article",
