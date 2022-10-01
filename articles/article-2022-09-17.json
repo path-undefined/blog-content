@@ -57,7 +57,7 @@
       "type": "ParagraphBlock",
       "content": {
         "en": "Other than the interior, I've also renovated several small body parts, for example, the logos and the mirror. The old logos were completely worn, the only things left on the emblems were the silver background and the black circle. And the plastic case of the mirror had a long crack on its back. I'm not a BMW fan or something, and the crack on the back of the plastic case won't affect any functionalities of the car too. But after those small problems being fixed, the car looks much newer now. Each time I reach my car and open the door, look at the bright shiny new logos and the smooth back side of the plastic case, I'll be in a good mood for quite a while.",
-        "zh": "除了内饰之外，这次的我也翻新了不少车身上的小部件，比如说车标和反光镜。之前的车标老化褪色，就只剩下一个银色的底盒黑色的圈。反光镜塑料座的背后也有一条长长的裂痕。虽然我也不是什么BMW的忠实的粉丝，反光镜塑料座背后的裂缝然对车子的功能也没有什么影响。但是这些小细节修复了之后，车子看上去就变新了好多。每次出门去开车的时候，看到颜色鲜艳的新LOGO，还有那光滑的反光镜塑料座，我的心情就会变得非常好。"
+        "zh": "除了内饰之外，这次的我也翻新了不少车身上的小部件，比如说车标和反光镜。之前的车标老化褪色，就只剩下一个银色的底和黑色的圈。反光镜塑料座的背后也有一条长长的裂痕。虽然我也不是什么BMW的忠实的粉丝，反光镜塑料座背后的裂缝然对车子的功能也没有什么影响。但是这些小细节修复了之后，车子看上去就变新了好多。每次出门去开车的时候，看到颜色鲜艳的新LOGO，还有那光滑的反光镜塑料座，我的心情就会变得非常好。"
       }
     },
     {
@@ -82,6 +82,14 @@
       "description": {
         "en": "The new BMW logo in the rear",
         "zh": "新的后车标"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-09-17--fixed-mirror.jpg",
+      "description": {
+        "en": "The plastic case of the mirror has been replace",
+        "zh": "反光镜塑料座被换掉了"
       }
     },
     {
@@ -147,8 +155,8 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "At the moment, my main concern should be driving it more, and enjoying the feeling of reaching the milestone of the project.",
-        "zh": "现在最应该做的事情莫过于多开着这辆车出去转转，享受一下这个工程阶段性的成果啦！"
+        "en": "At the moment, my main concern is definitely driving it more, and enjoying the feeling of reaching the milestone of the project.",
+        "zh": "现在最应该做的事情当然是多开着这辆车出去转转，享受一下这个工程阶段性的成果啦！"
       }
     }
   ]
