@@ -32,6 +32,18 @@
       }
     },
     {
+      "type": "ImageBlock",
+      "url": "/images/about--myself.jpg",
+      "size": {
+        "width": 2048,
+        "height": 1368
+      },
+      "description": {
+        "en": "A \"selfie\" of mine",
+        "zh": "我的“自拍”"
+      }
+    },
+    {
       "type": "HeadingBlock",
       "level": 1,
       "text": {
