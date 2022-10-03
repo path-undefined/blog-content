@@ -127,8 +127,15 @@
     {
       "type": "ParagraphBlock",
       "content": {
+        "en": "In my opinion, the liveliness of Cologne comes from its complexity and diversity. Different styles, different times, different thoughts and different people are all being mixed here. That's my impression of Cologne while I was doing my first city tour on my own.",
+        "zh": "我觉得科隆的生机勃勃是来自于它的复杂性与多样性。不同的风格、不同的时代、不同的思想和不同的人，都在这座城市里被混在了一起。这就是我在自己一个人游览的时候，科隆给我留下的第一印象。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
         "en": "I walked from Aachener Street to the east, all the way down to the Cathedral, and then crossed the Rhein through Hohenzollern Bridge, and finally reached Deutz. Here, everything are mixed together, the old, the new and also the future. It is very common to see modern buildings beside the old buildings, and the crane lifts, skyscrapers and the Cathedral are on the horizon. There are all glasses and concrete walls along one street, after a turn, there are red bricks and old scuptures. There are a lot of row houses in mixed style, which emphasises the \"mixed-style\" here - an old building would be sandwiched by two modern buildings, and the opposite side of the street there is a small construction site.",
-        "zh": "我从亚琛街开始一直往东走，一直走到了大教堂，然后从霍亨佐伦桥跨过莱茵河，最后一直走到多伊茨。在这里，不管是老的、新的，还是未来的东西，它们都像是被混在了一起一样。一栋现代建筑物矗立在一栋老房子旁边，地平线上有塔吊、摩天大楼和大教堂，这样的景象在这里再正常不过了。走在一条街上的时候，看见的还都是玻璃和混凝土墙，转过一个弯角就全是红砖和上了年纪的雕塑。有好多排房也是混合式的风格，这更加强了这种“混在一起”的感官刺激——一栋老房子可能就像是三明治一样被夹在两栋现代化的建筑物中间，然后对面的街边就是一个小工地。"
+        "zh": "我从亚琛街开始一直往东走，一直走到了大教堂，然后再从霍亨佐伦桥跨过莱茵河，最后一直走到多伊茨。在这里，不管是老的、新的，还是未来的东西，它们都像是被混在了一起一样。一栋现代建筑物矗立在一栋老房子旁边，地平线上有塔吊、摩天大楼和大教堂，这样的景象在这里再正常不过了。走在一条街上的时候，看见的还都是玻璃和混凝土墙，转过一个弯角就全是红砖和上了年纪的雕塑。有好多排房也是混合式的风格，这更加强了这种“混在一起”的感官刺激——一栋老房子可能就像是三明治一样被夹在两栋现代化的建筑物中间，然后对面的街边就是一个小工地。不仅是建筑物，文化也如是。在这里，你可以看到各种各样的人，操着各种各样的语言，做着各种各样的事情。虽然在汉堡和柏林也有类似的经历，但是科隆不像汉堡那么现代化，也不像柏林有一种冷冰冰的残破感和机械感，科隆给人的感觉是暖色调的，是有人性的。"
       }
     },
     {
@@ -142,8 +149,8 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "I like Cologne Cathedral very much, which is also one of the few parts of Cologne that I've already visited. Several years ago, I did a bicycle tour all the way from Karlsruhe to Cologne. After I had visited the Cologne Cathedral, I wrote a line like this, \"although I'm not a christian, I totally understand why people would believe in God. Just thinking about it, what kind of power could it be behind the construction of those catholic churches, so that people carried it on for more than hundreds of years, stikcing to the original design and finally finishing the master piece of architecture.\" All those pillars are carved so straight and smooth, and each of the scuptrues on the arches looks unique, not mentioning the twin towers are high up reaching the sky.",
-        "zh": "我非常喜欢科隆大教堂，它也是科隆市区里我造访过的为数不多的几个地方。几年之前，我做过一次长途自行车旅行，一直从卡尔斯鲁厄骑车骑到了科隆。我看到了科隆大教堂之后，回去就写下了这么一句话，“虽然我不是什么天主教徒或者是基督徒，但是我完全可以理解为什么人们会信上帝。试想，建造这些教堂的背后到底是一种什么样的力量？它能让人们能几百年一直坚持下来，忠于最原始的设计，最后一直到整个建筑史上的巨作完工的那一刻。”所有的石柱都雕刻得笔直光滑，门拱上的雕塑每一个看上去都姿态各异，更别说那两座直插云霄的尖塔了。"
+        "en": "Not only the buildings, the cultures too. Here you could meet different people in different skin tones, talking in different languages, doing different things. Although I had the similar experiences in Hamburg and Berlin, but Cologne is not as modern as Hamburg, and ist not as cold, broken and mechanical like Berlin. Cologne has a warm feeling, it is humanlike, it is just like saying I'm a hipster without saying \"I'm a hipster\".",
+        "zh": "不仅是建筑物，文化也如是。在这里，你可以看到各种各样不同肤色的人，操着各种各样的语言，做着各种各样的事情。虽然我在汉堡和柏林也有类似的经历，但是科隆不像汉堡那么现代化，也不像柏林有一种冷冰冰的残破感和机械感。科隆给人的感觉是暖色调的，是有人性的，像是在说我是嬉皮士，但是只字不提“我是嬉皮士”一样。"
       }
     },
     {
@@ -152,6 +159,13 @@
       "description": {
         "en": "Cologne Cathedral",
         "zh": "科隆主教座堂"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I like Cologne Cathedral very much, which is also one of the few parts of Cologne that I've already visited. Several years ago, I did a bicycle tour all the way from Karlsruhe to Cologne. After I had visited the Cologne Cathedral, I wrote a line like this, \"although I'm not a christian, I totally understand why people would believe in God. Just thinking about it, what kind of power could it be behind the construction of those catholic churches, so that people carried it on for more than hundreds of years, stikcing to the original design and finally finishing the master piece of architecture.\" All those pillars are carved so straight and smooth, and each of the scuptrues on the arches looks unique, not mentioning the twin towers are high up reaching the sky.",
+        "zh": "我非常喜欢科隆大教堂，它也是科隆市区里我造访过的为数不多的几个地方。几年之前，我做过一次长途自行车旅行，一直从卡尔斯鲁厄骑车骑到了科隆。我看到了科隆大教堂之后，回去就写下了这么一句话，“虽然我不是什么天主教徒或者是基督徒，但是我完全可以理解为什么人们会信上帝。试想，建造这些教堂的背后到底是一种什么样的力量？它能让人们能几百年一直坚持下来，忠于最原始的设计，最后一直到整个建筑史上的巨作完工的那一刻。”所有的石柱都雕刻得笔直光滑，门拱上的雕塑每一个看上去都姿态各异，更别说那两座直插云霄的尖塔了。"
       }
     },
     {
