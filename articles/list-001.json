@@ -2,6 +2,24 @@
   "items": [
     {
       "title": {
+        "en": "Marathon Relay & First Impressions of Cologne",
+        "zh": "马拉松接力跑与科隆的第一印象"
+      },
+      "date": "2022-10-02",
+      "thumbnailImageUrl": "/images/2022-10-02--cologne-marathon-medal.jpg",
+      "excerpt": {
+        "en": "This is my very first time taking part in a marathon relay, and this is also my very first time running 11.5 km. Speed is not important anymore. I've finished my stage, that's the most important part.",
+        "zh": "这是我第一次参加马拉松接力跑，也是我第一次跑下来11.5公里。速度完全不重要，重要的是我把我的那一段跑下来了。"
+      },
+      "itemUrl": {
+        "pageName": "article",
+        "queries": {
+          "articleConfigPath": "/articles/article-2022-10-02.json"
+        }
+      }
+    },
+    {
+      "title": {
         "en": "BMW 316ti Compact Project Reaches a Milestone",
         "zh": "BMW 316ti Compact工程暂时告一段落"
       },
