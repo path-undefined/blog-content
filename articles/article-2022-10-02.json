@@ -30,7 +30,7 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "en": "However, there is another runner in my group, who would take the 6 km stage, which means I had to take the 11.5 km stage, namely the second easiest stage. Although this was basically trippling or even quadrupling the longest distance that I had ever run so far, I told them that I would still give it a try. If I could manage to train up to 11.5 km, I would join the run. Actually it almost worked out, one time I managed to do 10.8 km, only 700 meter less than the expected distance. Therefore I thought it wouldn't be a big problem to run the 11.5 km stage, so I told them just count me in.",
+        "en": "However, there is another runner in my group, who would take the 6 km stage, which means I had to take the 11.5 km stage, namely the second easiest one. Although this was basically trippling or even quadrupling the longest distance that I had ever run so far, I told them that I would still give it a try. If I could manage to train up to 11.5 km, I would join the run. Actually it almost worked out, one time I managed to do 10.8 km, only 700 meter less than the expected distance. Therefore I thought it wouldn't be a big problem to run the 11.5 km stage, so I told them just count me in.",
         "zh": "不过，我这一组里面有另外一个人，她想要跑6公里的那一段，也就是说如果我要参加的话，我就必须要去跑11.5公里的那一段，也就是第二简单的一段。虽然这个比我之前跑过的最长的路程还翻了三番甚至是四番，我还是跟他们说我想试一试。如果我能练到跑下来11.5公里的话，我还是会参加跑步的。其实我也几乎练到了哪个程度了，有一次我一口气跑了10.8公里，比我需要跑的路程只少了700米。所以我想到时候要跑11.5公里的那一段应该也不是什么太大的问题吧，所以我跟他们说了，干脆算上我一个。"
       }
     },
@@ -117,18 +117,18 @@
       }
     },
     {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "In my opinion, the liveliness of Cologne comes from its complexity and diversity. Different styles, different times, different thoughts and different people are all being mixed here. That's my impression of Cologne while I was doing my first city tour on my own.",
+        "zh": "我觉得科隆的生机勃勃是来自于它的复杂性与多样性。不同的风格、不同的时代、不同的思想和不同的人，都在这座城市里被混在了一起。这就是我在自己一个人游览的时候，科隆给我留下的第一印象。"
+      }
+    },
+    {
       "type": "ImageBlock",
       "url": "/images/2022-10-02--scupture-and-fountain.jpg",
       "description": {
         "en": "Scupture and Fountain",
         "zh": "雕塑与喷泉"
-      }
-    },
-    {
-      "type": "ParagraphBlock",
-      "content": {
-        "en": "In my opinion, the liveliness of Cologne comes from its complexity and diversity. Different styles, different times, different thoughts and different people are all being mixed here. That's my impression of Cologne while I was doing my first city tour on my own.",
-        "zh": "我觉得科隆的生机勃勃是来自于它的复杂性与多样性。不同的风格、不同的时代、不同的思想和不同的人，都在这座城市里被混在了一起。这就是我在自己一个人游览的时候，科隆给我留下的第一印象。"
       }
     },
     {
