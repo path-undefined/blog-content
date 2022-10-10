@@ -1,0 +1,9 @@
+{
+  "title": {
+    "en": "The Adventure of Hami",
+    "de": "Die Abenteuer von Hami",
+    "zh": "哈米历险记"
+  },
+  "batchPathPrefix": "/comics/the-adventure-of-hami",
+  "totalPageNumber": 1
+}

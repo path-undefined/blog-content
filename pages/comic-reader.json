@@ -1,25 +1,29 @@
 {
   "type": "ComicReaderPage",
   "i18n": {
-    "backToListLabel": {
-      "en": "Back to Comics",
-      "de": "Zurück nach Comics",
-      "zh": "回到漫画列表"
-    },
     "nextPageLabel": {
-      "en": "Next page",
-      "de": "Nächste Seite",
+      "en": "Next",
+      "de": "Weiter",
       "zh": "下一页"
     },
     "prevPageLabel": {
-      "en": "Previous page",
-      "de": "Vorherige Seite",
+      "en": "Back",
+      "de": "Zurück",
       "zh": "上一页"
     },
-    "jumpToLabel": {
-      "en": "Jump to",
-      "de": "Zur Seite",
-      "zh": "跳转到"
+    "currentPageLabel": {
+      "en": "Page",
+      "de": "Seite",
+      "zh": "当前页"
+    },
+    "backLinkLabel": {
+      "en": "Back to Comics",
+      "de": "Zurück nach Comics",
+      "zh": "回到漫画列表"
     }
+  },
+  "backLinkUrl": {
+    "pageName": "comics",
+    "queries": {}
   }
 }
