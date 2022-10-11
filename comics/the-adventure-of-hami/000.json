@@ -3,9 +3,17 @@
     {
       "imageUrl": "/comics/the-adventure-of-hami/cover.png",
       "text": {
-        "en": "(Cover page)",
-        "de": "(Umschlagseite)",
-        "zh": "（封面页）"
+        "en": "Cover page",
+        "de": "Umschlagseite",
+        "zh": "封面页"
+      }
+    },
+    {
+      "imageUrl": "/comics/the-adventure-of-hami/copyright.png",
+      "text": {
+        "en": "Copyright: 2022 Watermelon Puppet. All rights reserved.",
+        "de": "Urheberrecht: 2022 Watermelon Puppet. Alle Rechte vorbehalten.",
+        "zh": "版权声明：2022 西瓜玩偶。保留一切权力。"
       }
     }
   ]
