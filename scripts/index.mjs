@@ -11,5 +11,6 @@ comicPageCounter({
   comicDirectories: [
     './comics/the-adventure-of-hami',
   ],
-  comicsPerBatch: 10,
+  comicsPerBatch: 100,
+  paddingLength: 5,
 });

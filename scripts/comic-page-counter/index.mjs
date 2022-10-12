@@ -1,7 +1,7 @@
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-export function comicPageCounter({ comicDirectories, comicsPerBatch }) {
+export function comicPageCounter({ comicDirectories, comicsPerBatch, paddingLength }) {
   for (const comicDirectory of comicDirectories) {
     const fileNames = readdirSync(comicDirectory);
     const batchNumbers = fileNames
@@ -10,7 +10,7 @@ export function comicPageCounter({ comicDirectories, comicsPerBatch }) {
 
     const maxBatchNumber = Math.max(batchNumbers);
 
-    const lastFilePath = join(comicDirectory, `${maxBatchNumber.toString().padStart(3, '0')}.json`);
+    const lastFilePath = join(comicDirectory, `${maxBatchNumber.toString().padStart(paddingLength, '0')}.json`);
     const lastFileContent = readFileSync(lastFilePath, { encoding: 'utf-8' });
     const lastFileObject = JSON.parse(lastFileContent);
     const lastBatchNumber = lastFileObject.pages.length;
