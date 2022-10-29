@@ -2,6 +2,23 @@
   "items": [
     {
       "title": {
+        "en": "Continental \"Wanderer-Werke A.G. Chemnitz\" Typewriter Repaired",
+        "zh": "修理好的Continental “Wanderer-Werke A.G. Chemnitz”打字机"
+      },
+      "date": "2022-10-18",
+      "thumbnailImageUrl": "/images/2022-10-18--typewriter-repaired.jpg",
+      "excerpt": {
+        "zh": "9月末的时候，村子里组织了一个跳蚤市场，好多人都拿着家里压箱底的东西出来卖。转了一上午之后，我挑了两个让我觉得很满意的东西。一个是看起来稍微有点旧的电脑包，另一个就是一台看起来相当古旧，又非常有味道的打字机。"
+      },
+      "itemUrl": {
+        "pageName": "article",
+        "queries": {
+          "articleConfigPath": "/articles/article-2022-10-18.json"
+        }
+      }
+    },
+    {
+      "title": {
         "en": "Marathon Relay & First Impressions of Cologne",
         "zh": "马拉松接力跑与科隆的第一印象"
       },
