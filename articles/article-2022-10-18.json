@@ -1,7 +1,7 @@
 {
   "title": {
-    "en": "Continental \"Wanderer-Werke A.G. Chemnitz\" Typewriter Repaired",
-    "zh": "修理好的Continental “Wanderer-Werke A.G. Chemnitz”打字机"
+    "en": "Continental Typewriter Repaired",
+    "zh": "修理好的Continental打字机"
   },
   "time": {
     "date": "2022-10-18",
@@ -33,7 +33,7 @@
     {
       "type": "ParagraphBlock",
       "content": {
-        "zh": "跳蚤市场并不大，毕竟村子也就几百个人，就连隔壁村的人都来这里摆摊了。就算这样，来摆摊的人也就在小小的停车场上排了三排。转了一上午之后，我挑了两个让我觉得很满意的东西。一个是看起来稍微有点旧的电脑包，另一个就是一台看起来相当古旧，又非常有味道的打字机。两个东西加起来也就只花了我15欧而已。"
+        "zh": "跳蚤市场并不大，毕竟村子也就几百个人，就连隔壁村的人都来这里摆摊了。就算这样，来摆摊的人也就在小小的停车场上排了三排。转了一上午之后，我挑了两个让我觉得很满意的东西。一个是看起来稍微有点旧的电脑包，另一个就是这台看起来相当古旧，又非常有味道的打字机。两个东西加起来也就只花了我15欧而已。"
       }
     },
     {
@@ -101,6 +101,14 @@
       }
     },
     {
+      "type": "ImageBlock",
+      "url": "/images/2022-10-18--real-mechanical-keyboard.jpg",
+      "description": {
+        "en": "The real mechanical keyboard",
+        "zh": "真正的机械键盘"
+      }
+    },
+    {
       "type": "ParagraphBlock",
       "content": {
         "zh": "打印机的机械部分修好了，不过真的要想打字的话还缺一卷色带。可是这么老的古董级打印机，色带肯定早就停产了。就连色带的转轴都是用铁皮做的，而现在就算有卖打字机的色带，转轴也是塑料做的。我仔细端详了一下金属的色带转轴，发现转轴上面其实有一个钩子。只要色带上有一个孔，就可以把色带钩在转轴上。于是我在Amazon上面买了一卷现代打印机用的色带，然后剪了一段下来，两边各打了一个孔，钩在了打印机色带的转轴上。之后我试了一下，果然能打出字来。虽然有很多字母打出来的效果并不是非常理想，但是打字机毕竟有80多年的岁数了，我还能对它有什么要求呢。"
@@ -118,6 +126,22 @@
       "type": "ParagraphBlock",
       "content": {
         "zh": "打字机能用之后，我开心地打了好多东西。比如说我的漫画的英文介绍、网站的名字，甚至还打了一段消息，用手机拍了照，发给了卖给我打印机的人。她是村子里的理发师，所以我用打字机写了一段消息，跟她约了下一个理发的时间。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-10-18--website-name-written-by-typewriter.jpg",
+      "description": {
+        "en": "The website name written by the typewriter",
+        "zh": "打字机打的网站名称"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-10-18--comic-intro-written-by-typewriter.jpg",
+      "description": {
+        "en": "The introduction of \"The Adventure of Hami\" written by the typewriter",
+        "zh": "打字机打的《哈米历险记》的介绍"
       }
     },
     {
