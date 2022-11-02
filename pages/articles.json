@@ -29,10 +29,9 @@
   },
   "filePagination": {
     "itemsPerFile": 5,
-    "totalItemNumber": 4,
+    "totalItemNumber": 6,
     "fileNamePrefix": "/articles/list-",
     "fileNameIndexDigits": 3,
-    "fileNameExtension": ".json",
-    "totalItemNumbers": 5
+    "fileNameExtension": ".json"
   }
 }

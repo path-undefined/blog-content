@@ -41,7 +41,7 @@ const ARTICLES_PAGE_CONFIG = 'pages/articles.json';
   );
   const articlesPage = JSON.parse(articlesPageConfigFileContentString);
 
-  articlesPage.filePagination.totalItemNumbers = allArticles.length;
+  articlesPage.filePagination.totalItemNumber = allArticles.length;
 
   writeFileSync(
     ARTICLES_PAGE_CONFIG,

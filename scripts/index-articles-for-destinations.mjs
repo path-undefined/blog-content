@@ -6,7 +6,7 @@ const ARTICLE_FILENAME_REGEX = /^article-\d{4}-\d{2}-\d{2}.json$/;
 const TARGET_FILE = 'destinations/visited.json';
 
 (function () {
-  console.log('index destinations...');
+  console.log('Index articles for destinations...');
 
   const destinations = { destinations: [] };
 

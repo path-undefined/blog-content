@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": {
+        "en": "A Short Walk near Federath",
+        "zh": "在Federath周围散步"
+      },
+      "date": "2022-07-02",
+      "thumbnailImageUrl": "https://live.staticflickr.com/65535/52189585677_8f0386d8f5_c_d.jpg",
+      "excerpt": {
+        "en": "Since I had started taking pictures with my camera, I noticed that I'm addicted to it. Whenever I'm free, I'll be thinking whether I should go out and take some pictures. Today is Saturday, the weather is clear, it is the perfect time for outdoor. I drove to Federath, and walked along the road on the hills for the whole afternoon.",
+        "zh": "自从开始用相机拍照片之后，我发现我好像有点上瘾了。每天闲下来的时候我就会想着要出去走一走，拍两张照片回来。今天是周六，天气非常好，正好是出行的好机会，所以我就开车去了Federath，沿着丘陵上的小路慢慢地像散步一样走了一下午。"
+      },
+      "itemUrl": {
+        "pageName": "article",
+        "queries": {
+          "articleConfigPath": "/articles/article-2022-07-02.json"
+        }
+      }
+    }
+  ]
+}
