@@ -4,6 +4,11 @@
     "de": "Die Abenteuer von Hami",
     "zh": "哈米历险记"
   },
-  "batchPathPrefix": "/comics/the-adventure-of-hami",
-  "totalPageNumber": 12
+  "filePagination": {
+    "itemsPerFile": 50,
+    "totalItemNumber": 12,
+    "fileNamePrefix": "/comics/the-adventure-of-hami/",
+    "fileNameIndexDigits": 5,
+    "fileNameExtension": ".json"
+  }
 }

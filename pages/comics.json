@@ -11,12 +11,27 @@
       "de": "Lesen anfangen",
       "zh": "开始阅读"
     },
-    "loadMoreLabel": {
-      "en": "load more",
-      "de": "mehr anzeigen",
-      "zh": "加载更多"
+    "nextPageLabel": {
+      "en": "Next",
+      "de": "Weiter",
+      "zh": "下一页"
+    },
+    "prevPageLabel": {
+      "en": "Back",
+      "de": "Zurück",
+      "zh": "上一页"
+    },
+    "currentPageLabel": {
+      "en": "Page",
+      "de": "Seite",
+      "zh": "当前页"
     }
   },
-  "itemsPerPage": 5,
-  "listConfigPath": "/comics/list-001.json"
+  "filePagination": {
+    "itemsPerFile": 5,
+    "totalItemNumber": 1,
+    "fileNamePrefix": "/comics/list-",
+    "fileNameIndexDigits": 3,
+    "fileNameExtension": ".json"
+  }
 }

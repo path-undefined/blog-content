@@ -19,6 +19,11 @@
       "long": "6.97551"
     }
   },
+  "thumbnailImageUrl": "/images/2022-10-02--cologne-marathon-medal.jpg",
+  "excerpt": {
+    "en": "This is my very first time taking part in a marathon relay, and this is also my very first time running 11.5 km. Speed is not important anymore. I've finished my stage, that's the most important part.",
+    "zh": "这是我第一次参加马拉松接力跑，也是我第一次跑下来11.5公里。速度完全不重要，重要的是我把我的那一段跑下来了。"
+  },
   "blocks": [
     {
       "type": "ParagraphBlock",
