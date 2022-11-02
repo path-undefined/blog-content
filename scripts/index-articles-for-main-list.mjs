@@ -6,7 +6,7 @@ const ARTICLE_FILENAME_REGEX = /^article-\d{4}-\d{2}-\d{2}.json$/;
 const ARTICLES_PAGE_CONFIG = 'pages/articles.json';
 
 (function () {
-  console.log('Generate article list pages...');
+  console.log('Index articles for main list...');
 
   const allArticles = [];
 
@@ -40,6 +40,14 @@ const ARTICLES_PAGE_CONFIG = 'pages/articles.json';
     { encoding: 'utf-8' },
   );
   const articlesPage = JSON.parse(articlesPageConfigFileContentString);
+
+  articlesPage.filePagination.totalItemNumbers = allArticles.length;
+
+  writeFileSync(
+    ARTICLES_PAGE_CONFIG,
+    JSON.stringify(articlesPage, null, 2),
+    { encoding: 'utf-8' },
+  );
 
   let fileIndex = 0;
   let articlesToWrite = [];

@@ -1,0 +1,173 @@
+{
+  "title": {
+    "en": "Neyetalsperre in the Sunshine and the Castle on the Water",
+    "zh": "烈日下的Neyetalsperre与水中城堡"
+  },
+  "time": {
+    "date": "2022-07-16",
+    "time": "17:22:00",
+    "timeZone": "Europe/Berlin"
+  },
+  "location": {
+    "name": {
+      "en": "Neyetalsperre",
+      "zh": "Neyetalsperre"
+    },
+    "coord": {
+      "lat": 51.137206,
+      "long": 7.393015
+    }
+  },
+  "thumbnailImageUrl": "https://live.staticflickr.com/65535/52229071737_9c734fb244_k_d.jpg",
+  "excerpt": {
+    "en": "After having worked 3 days in the garden, I decided to have a relax in the nature. Although I took quite a lot of bad pictures, I've managed to save a few with Darktable.",
+    "zh": "在花园里忙活了三天之后，我决定在大自然里放松一下。"
+  },
+  "blocks": [
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "There is a brick parking lot on my property. It seems that the pre-owner wanted a larger lawn while saving some time, so he covered the brick parking lot directly with dirt and grass. But now the grass can't grow well at all, because the root of the grass doesn't go deep enough. This has left a big chance for all kinds of weeds. If it rains after I've mowed the lawn, that area is garanteed to be covered with vine plants, dandelions or other weeds, which looks ugly. Therefore I've had a vacation, planning to dig the hidden parking lot out.",
+        "zh": "我住的房子之前有一个石砖铺的停车位。之前的房主估计当初想要扩大草坪，还想图省事，他没清理掉石砖，就直接用土和草皮把停车位盖上了。结果现在草怎么都长不好，想必是因为草根扎得不深的缘故。这就给了各种杂草可乘之机，每次割完草之后，一下雨，先长出来的肯定是各种藤蔓植物或者是蒲公英之类的，很是难看。所以我专门请了个假，准备把这个停车位给挖出来。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Since this Wednesday, I was mainly working on the parking lot. Today at noon time, the parking lot has been completely dug up, and the dirt has been removed. Now it is the perfect time for a short trip.",
+        "zh": "从这周三开始，我基本上一直都在忙活着停车位的事情。今天中午的时候，整个停车位都被挖出来了，土也被清掉了。现在正好是出去游玩的好机会。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I was planing to go back to the Neyetalsperre this time. Neyetalsperre literally means \"Dam of the Neye River Valley\", which is one of the numerous dams in the Bergisches Land. I wrote \"go back\" because I've actually been there before, but I didn't take my camera with me at that time. So this time, I was planning to take some pictures in the clear weather.",
+        "zh": "我这次准备回去Neyetalsperre看看。Neyetalsperre的字面意思是“Neye河谷的大坝”，它是Bergisches Land星罗棋布的水坝中的其中一个。之所以说是“回去看看”，是因为我之前其实已经去过一次了，但是之前去的时候没有带相机。这次去，我是准备趁天气好的时候拍几张漂亮的照片的。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52229071737_9c734fb244_k_d.jpg",
+      "description": {
+        "en": "The pasture near the Neyetalsperre",
+        "zh": "Neyetalsperre周围的草场"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "However it didn't go smoothly. I always had the impression that clear days are good for photographing, but this time I realised that taking pictures in the bright sunshine can be a challenging task too. Since the bright sunshine will boost the contrast between the shadow and the highlight. It always makes the highlight area overexposed while the shadow completely black. After I've got home, I found that most of the pictures can't be post-processed at all. Only very few pictures were barely satisfying.",
+        "zh": "不过事情似乎并不尽如人意。我之前一直觉得晴天照出来的照片很漂亮的，不过这次我却意识到在烈日下拍照片其实也是非常有挑战的一件事情。因为炎炎的烈日会让阴影部分和高光的部分反差过大，所以经常是高光的部分过曝了，阴影的部分还几乎是全黑的。回到家之后，我发现大部分照的照片都很难处理。只剩下很少的几张照片自己还觉得算是过得去。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52229071622_4a1c377b5c_k_d.jpg",
+      "description": {
+        "en": "The dam",
+        "zh": "大坝"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52229071477_91f5ea646d_k_d.jpg",
+      "description": {
+        "en": "The dam",
+        "zh": "大坝"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52230343714_d0f7149684_k_d.jpg",
+      "description": {
+        "en": "The forest at the foot of the dam",
+        "zh": "大坝脚下的树林"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52230074496_02746b1061_k_d.jpg",
+      "description": {
+        "en": "The reservoir lake behind the dam",
+        "zh": "大坝后的水库"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52230079258_657519f3af_k_d.jpg",
+      "description": {
+        "en": "The dam",
+        "zh": "大坝"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52230830226_1e690cad43_k_d.jpg",
+      "description": {
+        "en": "The dam",
+        "zh": "大坝"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "After having enjoyed the calm breeze and the beautiful scenary of the water reservoir on the dam, I went down along a narrow trail, heading into a forest near the dam. There were several benches made from logs. The log pattern on the bench was very beautiful.",
+        "zh": "在大坝上吹够了风，欣赏够了水库的风景之后，我沿着大坝旁边的一条小路走进了大坝旁的树林里。那里有几张原木做的长椅。长椅上的木纹看起来很漂亮。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52234403525_45cd1f5133_k_d.jpg",
+      "description": {
+        "en": "Bench in the forest made from log",
+        "zh": "树林里用原木做成的长椅"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52230073996_03bf65af14_k_d.jpg",
+      "description": {
+        "en": "Pattern on the log",
+        "zh": "原木上的木纹"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52229070597_70fa59b079_k_d.jpg",
+      "description": {
+        "en": "Pattern on the log",
+        "zh": "原木上的木纹"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Knowing that I can't get any good pictures at Neyetalsperre, I decided to leave. On the way back home, I thought the time was enough, so I took a detour and reached Burgruine Eibach. Burgruine Eibach means \"Ruin of the Eibach Castle\", which locates in a pond, looks like a castle ruin is floating on the water. I arrived there just before sunset. No matter how hard I try, I still couldn't manage to take a good picture. After I got back home, I searched for the pictures taken by other people, and then I noticed that almost all of them were taken in Autumn. In autumn days, the leaves of the ivy on the walls are not that thick, making the structure of the castle clearer, and the tree leaves in the background are more colorful too, therefore all those pictures look quite nice.",
+        "zh": "自知在Neyetalsperre拍照片也拍不好，我便离开了Neyetalsperre。回家的路上我心想反正时间还够，所以就开车绕道去了Burgruine Eibach。Burgruine Eibach直译是“Eibach城堡的废墟”，它坐落在在一个小水塘里，像是城堡的废墟漂浮在水面上一样。我去的时候时间已经接近太阳落山了，虽然花了不少时间拍照，但是也没拍到一张好看的。后来我回到了家，看了好多其他人的照片之后，发现大多数照片都是秋天拍的。因为秋天的时候城堡上爬墙虎的叶子没有那么繁茂，这样一来就突出了城堡的结构，背景里树叶的颜色也是五彩缤纷的，所以看起来很棒。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I thought I'd give up all those pictures of the castle ruin, but in the evening I got to know a post-processing software called Darktable. The introduction said that it is powerful. If it is true, maybe I could use it to save those bad pictures? And it did! I managed to save two pictures, which I didn't even think about keeping them before. That was an amazing feeling!",
+        "zh": "本来我已经决定想要放弃这些Burgruine Eibach的照片了，可是晚上的时候，我了解到了一个叫做Darktable的软件，它是做照片后期处理的。介绍里说它的功能相当强大，如果真的是这样的话，我是不是可以试着用它救回来一些我拍坏的照片呢？没想到还真的可以！我用它救回来两张我之前留都不想留的照片。这个感觉真的是棒极了！"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52230604210_0628129491_k_d.jpg",
+      "description": {
+        "en": "A farm building near the castle, whose owner probably owns the castle too",
+        "zh": "城堡旁的农庄，城堡说不定是他们家的私人财产"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "https://live.staticflickr.com/65535/52230391484_b396180172_k_d.jpg",
+      "description": {
+        "en": "The castle on the water",
+        "zh": "水面上的城堡"
+      }
+    }
+  ]
+}

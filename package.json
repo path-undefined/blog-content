@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "publish": "node scripts/run-all.mjs && git add . && git commit -m 'Updated the blog content.' && git push",
+    "scripts": "node scripts/run-all.mjs",
+    "scripts-and-publish": "npm run scripts && git add . && git commit -m 'Updated the blog content.' && git push",
     "lint": "eslint scripts/*.mjs scripts/**/*.mjs --fix"
   },
   "devDependencies": {

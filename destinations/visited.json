@@ -1,18 +1,3 @@
 {
-  "destinations": [
-    {
-      "name": {
-        "en": "Deutz, Cologne",
-        "de": "Deutz, Köln",
-        "zh": "科隆，多伊茨"
-      },
-      "coord": {
-        "lat": "50.93984",
-        "long": "6.97551"
-      },
-      "date": "2022-10-02",
-      "time": "09:05:00",
-      "timeZone": "Europe/Berlin"
-    }
-  ]
+  "destinations": []
 }

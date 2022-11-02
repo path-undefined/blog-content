@@ -1,3 +1,3 @@
 import './count-comic-pages.mjs';
-import './generate-article-list-pages.mjs';
-import './index-destinations.mjs';
+import './index-articles-for-main-list.mjs';
+// import './index-articles-for-destinations.mjs';

@@ -71,6 +71,24 @@
           "articleConfigPath": "/articles/article-2022-09-11.json"
         }
       }
+    },
+    {
+      "title": {
+        "en": "Neyetalsperre in the Sunshine and the Castle on the Water",
+        "zh": "烈日下的Neyetalsperre与水中城堡"
+      },
+      "date": "2022-07-16",
+      "thumbnailImageUrl": "https://live.staticflickr.com/65535/52229071737_9c734fb244_k_d.jpg",
+      "excerpt": {
+        "en": "After having worked 3 days in the garden, I decided to have a relax in the nature. Although I took quite a lot of bad pictures, I've managed to save a few with Darktable.",
+        "zh": "在花园里忙活了三天之后，我决定在大自然里放松一下。"
+      },
+      "itemUrl": {
+        "pageName": "article",
+        "queries": {
+          "articleConfigPath": "/articles/article-2022-07-16.json"
+        }
+      }
     }
   ]
 }
