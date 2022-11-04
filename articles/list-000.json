@@ -2,6 +2,24 @@
   "items": [
     {
       "title": {
+        "en": "\"Cave 114.84\" and the New Album Project",
+        "zh": "《Cave 114.84》与新专辑工程"
+      },
+      "date": "2022-11-03",
+      "thumbnailImageUrl": "/images/2022-11-03--album-cover.jpg",
+      "excerpt": {
+        "en": "After I had visited the Museum of Applied Art Cologne, I went down along different streets randomly. At last I've stopped at an avenue in the campus of University of Cologne, there I sat down on a bench for a rest. After a while, a man came and started to play guitar. I like his style very much, thus I approached him and started to talk with him. Later I subscribbed his channle on YouTube. Few days aog, he published a new piece of remix work in his channel, which inspired me a lot. So I tried to remix his remix, and the result was amazingly good to me.",
+        "zh": "我参观了科隆应用艺术博物馆，之后我就一直沿着大街小巷漫无目的地随便走。最后我在科隆大学校区里的一条林荫大道旁停了下来，坐在长椅上歇脚。过了一会儿，一个人在我的旁边弹起吉他来。我还挺喜欢他弹的风格的，于是就上前去搭讪。后来我在YouTube上面订阅了他的频道。前几天，他发了一个新的remix作品，这让我突然有了灵感。于是我remix了他的remix，结果出其不意地让我感觉非常好。"
+      },
+      "itemUrl": {
+        "pageName": "article",
+        "queries": {
+          "articleConfigPath": "/articles/article-2022-11-03.json"
+        }
+      }
+    },
+    {
+      "title": {
         "en": "Continental Typewriter Repaired",
         "zh": "修理好的Continental打字机"
       },
@@ -69,24 +87,6 @@
         "pageName": "article",
         "queries": {
           "articleConfigPath": "/articles/article-2022-09-11.json"
-        }
-      }
-    },
-    {
-      "title": {
-        "en": "Neyetalsperre in the Sunshine and the Castle on the Water",
-        "zh": "烈日下的Neyetalsperre与水中城堡"
-      },
-      "date": "2022-07-16",
-      "thumbnailImageUrl": "https://live.staticflickr.com/65535/52229071737_9c734fb244_k_d.jpg",
-      "excerpt": {
-        "en": "After 3 days of hard work in the garden, now it is the perfect time for a short trip. I went back to Neyetalsperre first, and then visited Burgruine Eibach. Two things I've learnt this time. First, taking pictures in the bright sunshine can be a challenging task. Second, Darktable is really powerful!",
-        "zh": "在花园里忙活了三天之后，现在正是出去游玩的好机会。我先是回去Neyetalsperre看了看，然后又去了Burgruine Eibach。这次我学到两件事情：第一，在晴朗的天气拍照也有可能是一件相当有挑战的事情；第二，Darktable真是太强大了！"
-      },
-      "itemUrl": {
-        "pageName": "article",
-        "queries": {
-          "articleConfigPath": "/articles/article-2022-07-16.json"
         }
       }
     }

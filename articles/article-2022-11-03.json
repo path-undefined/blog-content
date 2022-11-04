@@ -1,0 +1,118 @@
+{
+  "title": {
+    "en": "\"Cave 114.84\" and the New Album Project",
+    "zh": "《Cave 114.84》与新专辑工程"
+  },
+  "time": {
+    "date": "2022-11-03",
+    "time": "20:58:00",
+    "timeZone": "Europe/Berlin"
+  },
+  "location": {
+    "name": {
+      "en": "Home",
+      "de": "Zuhause",
+      "zh": "家中"
+    }
+  },
+  "thumbnailImageUrl": "/images/2022-11-03--album-cover.jpg",
+  "excerpt": {
+    "en": "After I had visited the Museum of Applied Art Cologne, I went down along different streets randomly. At last I've stopped at an avenue in the campus of University of Cologne, there I sat down on a bench for a rest. After a while, a man came and started to play guitar. I like his style very much, thus I approached him and started to talk with him. Later I subscribbed his channle on YouTube. Few days aog, he published a new piece of remix work in his channel, which inspired me a lot. So I tried to remix his remix, and the result was amazingly good to me.",
+    "zh": "我参观了科隆应用艺术博物馆，之后我就一直沿着大街小巷漫无目的地随便走。最后我在科隆大学校区里的一条林荫大道旁停了下来，坐在长椅上歇脚。过了一会儿，一个人在我的旁边弹起吉他来。我还挺喜欢他弹的风格的，于是就上前去搭讪。后来我在YouTube上面订阅了他的频道。前几天，他发了一个新的remix作品，这让我突然有了灵感。于是我remix了他的remix，结果出其不意地让我感觉非常好。"
+  },
+  "blocks": [
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "These days I drove to Cologne quite frequently. My plan is just to try out different restaurants there, and also to discover different interesting places to go. One day, after had a decent lunch at a very traditional restaurant \"Mar Stark\", I went to the Museum of Applied Art Cologne. I enjoyed the permanent exhibition there, which could be described as a brief history of the modern industrial design.",
+        "zh": "这些天我经常一个人开车去科隆。我的计划是去多多尝试一下那里不同的餐馆，然后多发现一些不同的好玩有趣的地方。有一天，我在一家叫做Max Stark的传统德国餐馆吃了顿超丰盛的午餐之后，慢慢散步走到了科隆应用艺术博物馆。我非常喜欢那里的固定展览，它基本上可以算是一个现代工业设计简史了吧。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "After I had visited the Museum of Applied Art Cologne, I went down along different streets randomly. At last I've stopped at an avenue in the campus of University of Cologne, there I sat down on a bench for a rest. After a while, a man came and started to play guitar. I like his style very much, thus I approached him and started to talk with him. Later I subscribbed [his channel](https://www.youtube.com/channel/UC12t8QQP-SU1saYkXBfkLJw) on YouTube. Few days aog, he published a new piece of remix work in his channel, which inspired me a lot. So I tried to remix his remix, and the result was amazingly good to me.",
+        "zh": "我参观完了科隆应用艺术博物馆，之后我就一直沿着大街小巷漫无目的地随便走。最后我在科隆大学小区里的一条林荫大道旁停了下来，坐在长椅上歇脚。过了一会儿，一个人在我的旁边弹起吉他来。我还挺喜欢他弹的风格的，于是上前去搭讪。后来我在YouTube上面订阅了[他的频道](https://www.youtube.com/channel/UC12t8QQP-SU1saYkXBfkLJw)。前几天，他发了一个新的remix作品，这让我突然有了灵感。于是我remix了他的remix，结果出其不意地让我感觉非常好。"
+      }
+    },
+    {
+      "type": "YoutubeBlock",
+      "videoId": "KmZLcIw-H2M",
+      "aspectRatio": {
+        "width": 16,
+        "height": 9
+      },
+      "description": {
+        "en": "\"Cave 114.84\", my remix of other's remix work",
+        "zh": "《Cave 114.84》，我remix了别人的remix的作品"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "His guitar playing style was in the direction to post rock or ambient, which I liked quite a lot. And his remix work on YouTube was mostly slowed down, delayed and pitch dropped version of other songs. This technique worked very well on a piece called \"Inpeace\" by Sewerslvt, because it stretches the tempo, and keeps the deep pad sound, creates a very relaxed feeling. I'm a huge fan of deep, minimalistic music, for they make people thinking a lot and meditating a lot. After I heard his remix work, I suddenly noticed that if I add some groovy bass, techno-like bass drum, and some other sound effects based on his remix, it could be an interesting song into the ambient house direction.",
+        "zh": "他弹吉他的风格应该属于后摇或者是氛围乐哪一类，我非常喜欢那种风格。他在YouTube频道里的作品大多数都是把别人的曲子拿来减慢速度、添加延迟，然后还降低音高做出来的。这个技法用在这首Sewerslvt作的《Inpeace》上面相当合适，因为它让原曲的节奏松弛下来了，但是没有改变原曲深邃的背景音色，从而营造了一种非常放松的感觉。总的来说我就是非常喜欢那种深邃的、极简主义风格的音乐的，因为它们往往能让人陷入深深的沉思，或者让人进入冥想的状态。我听完了他的remix作品之后，我突然意识到，如果我能在他的remix基础之上添加一些动感的贝斯、再加上类似于techno那种感觉的底鼓，最后再来一点其他的音效，恐怕就是一首类似于ambient house风格的音乐作品了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I didn't think much before I started to work on my ideas. My remix skill isn't far from \"beginner level\". I just did what I could do, picking up the loop from the original work, which in my opinion fits the ambient feeling the best; selecting the sound I liked the most from the default library, and then arranging them carefully into the loop, trying not to fill up the song too much, so that the sparseness for the ambient feeling wasn't being broken; and finally turn some knobs to create some dynamic. It was simply done like this.",
+        "zh": "我没多想就开工实现我的点子去了。我的remix技巧实话说跟“初学者级别”也差不了多少。我就是把我能做的事情都做了——首先我从原曲里面选了最适合循环的一段，在我看来这一段对那种ambient的感觉来说最适合不过了；然后我从默认的音色库里面选了几个我最喜欢的银色出来，然后小心翼翼地把它们安排到循环里面去，我不想把曲子填得“太满”，因为我不想破坏ambient风格里面那种“稀疏”的感觉；最后我随便拧了几个旋钮，营造了一点动态的效果。这样这首曲子就算是完成了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "I came up with the name of the song very easily too. The first time when I heard the original remix work, it felt just like walking in the blue ice cave. It's cold, and the sound texture feels like the sunlight going through the huge ice, creating blue and white spots. So I called it \"Cave\" at the beginning. But after that, I noticed that I had got the tempo wrong, instead of 115 bpm, it should be 114.84 bpm. So I saved the project with its original name \"Cave\" and its new tempo as a suffix, and then it was \"Cave 114.84\". Later, I thought that the number 114.84 makes it a little bit more \"techno-ish\", so I decided to keep it.",
+        "zh": "给这首曲子起名字的时候也没费多少功夫。我第一次听到原来的remix作品的时候，它给我的感觉就好像是漫步在蓝冰洞中一般。曲子感觉非常冷，那些音色给人的感觉就像是阳光穿过了厚厚的冰层，然后在冰面上形成蓝色和白色的光斑。所以我一开始叫这首曲子《Cave》。后来，我发现我把曲子的速度搞错了，不应该是115bpm，而应该是114.84bpm。我改了速度之后，把工程另存为了一下，在原来的名字“Cave”后面加上了新的速度——114.84——作为后缀，于是它就成了《Cave 114.84》。后来我觉得114.84这个数字好像给这首曲子加了一丁点“techno”的感觉，所以我就决定留着这个名字了。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "After the \"remix of the remix\" was done, I was thinking about maybe I should communicate that guitarist I had met before. Since at the end it was his work, I should share it with him. So I created a video, using a black-white photo that I had taken several months ago as the picture, and put the new remixed song as the backgound music. I left a comment under his video after I had uploaded mine, notifying him that I've remixed his work, and I really hope that he could like it.",
+        "zh": "我完成了这个“remix的remix”的曲子之后，我在想或许我应该联系一下那个我之前遇到的吉他手。毕竟它是原作者，我应该跟他分享一下我的作品的。所以我做了一个新的视频，用了我自己几个月之前照的一张黑白照片做图像，然后用了我新制作的这首曲子当作背景音乐。上传了视频之后，我在他的视频里给他写了一个留言，告诉他我remix了他的作品，我很希望他能喜欢。"
+      }
+    },
+    {
+      "type": "ImageBlock",
+      "url": "/images/2022-11-03--album-cover.jpg",
+      "description": {
+        "zh": "专辑的封面，里面的房顶和烟囱其实就是邻居家的"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "The text on the photo \"Loneliness is Addictive\" somehow looked like the name of the album, and then I thought, why not just start a new album project? I've got another piece of music already, which is called \"Geysir\", produced about a year ago by myself. Both of them feels like the landscape in Iceland. So I uploaded that song too, with the same picture. My goal was not to finish the album within a blabla time. I just wanted to have a place to collect all of my produced songs, and that's it.",
+        "zh": "我发现现那张黑白照片上的字《Loneliness is Addictive》看起来像极了专辑的名字。我仔细一想，为什么不干脆搞一个新的专辑工程呢？我之前已经制作过另外一首曲子了，叫做《Geysir》，大概是一年之前作的。两首曲子都跟冰岛的景色很像。所以我干脆也上传了那首曲子，用了同样的图片当作图像。我的目的并不是在多长时间之内完成这张专辑，我就是想要一个地方来收集我零零星星制作的曲子罢了。"
+      }
+    },
+    {
+      "type": "YoutubeBlock",
+      "videoId": "sJHH1mJBh3o",
+      "aspectRatio": {
+        "width": 16,
+        "height": 9
+      },
+      "description": {
+        "zh": "《Geysir》，去年创作的，我决定把它也收录到专辑里面"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Previously, I was fond of music. Not only listening, but also analysing, composing and producing. However, I gave up after about two years, because I pushed myself too hard. I tried to learn something everyday, and if I wasn't improving myself, I would be very upset, and felt like wasting my time. Soon after that, I noticed that I wasn't doing any creative work, instead, I was trying to prove and improve myself meaninglessly, which was very stressful and toxic.",
+        "zh": "之前我曾经有一段时间特别热衷于音乐。不仅是热衷于听音乐，还热衷于分析、创作和制作音乐。但是这样持续了两年之后，我放弃了。因为我把我自己逼得太紧了。我每天都急着想要去学一点新的东西，如果哪一天我没做到的话，我就会非常沮丧，因为我感觉我浪费了时间。很快，我就发现我根本就不是在创作，我在做的事情无非是在无意义地尝试证明并且提高自己，这样给我带来了非常大的压力，而且负能量满满。"
+      }
+    },
+    {
+      "type": "ParagraphBlock",
+      "content": {
+        "en": "Now, another two years passed, I slowly started to enjoy it again. I realized that there is nothing to prove or improve about myself, if I enjoy it! It is just a natural way of expressing myself. If I have inspiration, then I do something about it. If I don't, then I do something else. In such a way, I can enjoy myself while doing music, without worrying about not able to proving myself, without worrying about not improving myself. That is exactly the attitude and inner peace that I have looked after for years, and now it finally comes to me.",
+        "zh": "而现在，又是两年过去了。我终于开始慢慢地又找回了对它的兴趣。我突然意识到，只要我能够乐在其中，我根本没有什么需要“证明”或者是需要“提高”的！它只是一个很自然的表达自我的方式而已。如果我有了灵感，我就做点跟它有关的事情。如果没有，我就做点其他的事情。这样一来，我真的就能从制作音乐的过程中获得快乐，而不需要去担心我没法证明我自己，也不用担心我没法提高自己了。这就是我探寻了多年一直求之不得的心态——或者说是一种内心的平静，而现在，我终于能够体会到它了。"
+      }
+    }
+  ]
+}
