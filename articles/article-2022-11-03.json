@@ -79,6 +79,7 @@
       "type": "ImageBlock",
       "url": "/images/2022-11-03--album-cover.jpg",
       "description": {
+        "en": "the cover of the album, the roofs and the chimney are my neighbour's",
         "zh": "专辑的封面，里面的房顶和烟囱其实就是邻居家的"
       }
     },
@@ -97,6 +98,7 @@
         "height": 9
       },
       "description": {
+        "en": "\"Geysir\", produced last year, I decided to put it into the album too",
         "zh": "《Geysir》，去年创作的，我决定把它也收录到专辑里面"
       }
     },
