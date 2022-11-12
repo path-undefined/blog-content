@@ -20,6 +20,24 @@
     },
     {
       "title": {
+        "en": "Altenberg Church",
+        "zh": "Altenberg教堂"
+      },
+      "date": "2022-07-17",
+      "thumbnailImageUrl": "https://live.staticflickr.com/65535/52232446434_afbed53255_k_d.jpg",
+      "excerpt": {
+        "en": "Altenberg Church is not just a beautiful church. Actually, it is also the rest place where quite a few Counts and Dukes of Bergisches Land were buried, and it seems to be quite famous among tourists too. However, I don't really like the vibe there.",
+        "zh": "阿尔滕贝格教堂不仅仅是一座漂亮的教堂而已。事实上，它是好几代贝吉舍斯兰大公的安息之所。而且它好像在游客间也算有些名气。不过我并不是太喜欢这里的感觉。"
+      },
+      "itemUrl": {
+        "pageName": "article",
+        "queries": {
+          "articleConfigPath": "/articles/article-2022-07-17.json"
+        }
+      }
+    },
+    {
+      "title": {
         "en": "Neyetalsperre in the Sunshine and the Castle on the Water",
         "zh": "烈日下的Neyetalsperre与水中城堡"
       },
