@@ -29,7 +29,7 @@
   },
   "filePagination": {
     "itemsPerFile": 5,
-    "totalItemNumber": 7,
+    "totalItemNumber": 8,
     "fileNamePrefix": "/articles/list-",
     "fileNameIndexDigits": 3,
     "fileNameExtension": ".json"

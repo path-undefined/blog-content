@@ -2,6 +2,24 @@
   "items": [
     {
       "title": {
+        "en": "Bergischer Short Hiking Trails #1 - \"Cloth-Maker\" Road",
+        "zh": "贝吉舍短途徒步路线之一——纺织工之路"
+      },
+      "date": "2022-11-05",
+      "thumbnailImageUrl": "https://live.staticflickr.com/65535/52484858399_e0e8b27c91_k_d.jpg",
+      "excerpt": {
+        "en": "I found a set of short-distance hiking trails in Bergisches Land, which are called \"Bergische Streifzüge\" in German. There are 24 of them in total, each of them is about 5 to 15 km long, and each of them has a different theme, which are perfect for weekend trips. I'd like to do them all one by one, and this time, I'd finish the first trail.",
+        "zh": "我找到了一组贝吉舍斯兰的短途徒步路线，德语叫做“Bergische Streifzüge”。这组路线总共有24条，每一条路线的长度大概都在5到15公里之间，而且每一条路线都有一个特定的主题。这样的路线非常适合周末旅行。我想要把它们一条一条地都走下来。而这次，我计划完成第一条路线。"
+      },
+      "itemUrl": {
+        "pageName": "article",
+        "queries": {
+          "articleConfigPath": "/articles/article-2022-11-05.json"
+        }
+      }
+    },
+    {
+      "title": {
         "en": "\"Cave 114.84\" and the New Album Project",
         "zh": "《Cave 114.84》与新的专辑工程"
       },
@@ -69,24 +87,6 @@
         "pageName": "article",
         "queries": {
           "articleConfigPath": "/articles/article-2022-09-17.json"
-        }
-      }
-    },
-    {
-      "title": {
-        "en": "New Radio and Interior Trims of BMW 316ti Compact",
-        "zh": "BMW 316ti Compact的新音响和内饰饰条"
-      },
-      "date": "2022-09-11",
-      "thumbnailImageUrl": "/images/2022-09-11--painted-interior-trim-2.jpg",
-      "excerpt": {
-        "en": "I've changed the head unit and the speaker of the audio system, and also painted the interior trim of the car. The only thing left is to repair some mount points on the back side of the door panel. Now the car looks much better than at the time when I bought it, which makes me very happy. What should I do in the next step? Let's see!",
-        "zh": "我给车子换掉了音响头、换了扬声器，还把车子里的内饰饰条重新喷了漆。现在就只剩下门板背后的一些固定点还需要修理。车子现在看上去比我刚刚买它的时候还要新了，这让我很是高兴。下一步我会给车子做哪些改动呢？走一步瞧一步吧！"
-      },
-      "itemUrl": {
-        "pageName": "article",
-        "queries": {
-          "articleConfigPath": "/articles/article-2022-09-11.json"
         }
       }
     }
