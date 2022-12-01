@@ -6,7 +6,7 @@
   },
   "filePagination": {
     "itemsPerFile": 50,
-    "totalItemNumber": 20,
+    "totalItemNumber": 21,
     "fileNamePrefix": "/comics/the-adventure-of-hami/",
     "fileNameIndexDigits": 5,
     "fileNameExtension": ".json"
